@@ -1,0 +1,1001 @@
+tree_id,spc_common,boroname,steward,guards,sidewalk,curb_loc,soil,tree_dbh,health
+200000,Ginkgo,Bronx,None,None,NoDamage,OffsetFromCurb,Well-maintained,17.5,Good
+200001,London planetree,Manhattan,None,None,NoDamage,OnCurb,Artificial,15.7,Fair
+200002,American elm,Bronx,3or4,Hurdle,NoDamage,OnCurb,Well-maintained,11.9,Good
+200003,American elm,Manhattan,3or4,MetalGrate,NoDamage,OffsetFromCurb,Plantable,14.9,Good
+200004,American elm,Queens,3or4,Hurdle,NoDamage,OnCurb,Artificial,12.5,Good
+200005,London planetree,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,15.0,Poor
+200006,Ginkgo,Manhattan,None,MetalGrate,Damage,OnCurb,Well-maintained,8.9,Fair
+200007,American elm,Queens,None,None,NoDamage,OnCurb,Artificial,8.1,Poor
+200008,Japanese zelkova,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,13.1,Good
+200009,Ginkgo,Staten Island,None,None,NoDamage,OnCurb,Artificial,19.4,Good
+200010,London planetree,Queens,3or4,None,Damage,OnCurb,Well-maintained,3,Poor
+200011,London planetree,Queens,1or2,None,NoDamage,OffsetFromCurb,Artificial,10.6,Good
+200012,Callery pear,Staten Island,3or4,None,NoDamage,OnCurb,Well-maintained,15.9,Good
+200013,Ginkgo,Bronx,3or4,None,NoDamage,OnCurb,Artificial,9.9,Good
+200014,London planetree,Staten Island,3or4,MetalGrate,NoDamage,OnCurb,Well-maintained,15.0,Good
+200015,London planetree,Queens,3or4,None,NoDamage,OnCurb,Artificial,12.3,Poor
+200016,Callery pear,Brooklyn,1or2,MetalGrate,Damage,OnCurb,Well-maintained,9.8,Good
+200017,London planetree,Brooklyn,None,Hurdle,NoDamage,OnCurb,Artificial,8.7,Fair
+200018,London planetree,Staten Island,3or4,None,NoDamage,OffsetFromCurb,Artificial,20.9,Good
+200019,Callery pear,Queens,3or4,None,Damage,OnCurb,Plantable,21.6,Good
+200020,Pin oak,Queens,4orMore,None,NoDamage,OnCurb,Well-maintained,13.0,Good
+200021,Callery pear,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Plantable,16.2,Good
+200022,Littleleaf linden,Queens,4orMore,WireCage,NoDamage,OnCurb,Plantable,14.1,Good
+200023,Honeylocust,Staten Island,None,MetalGrate,NoDamage,OnCurb,Well-maintained,17.9,Poor
+200024,Ginkgo,Queens,None,None,NoDamage,OnCurb,Plantable,13.0,Fair
+200025,Callery pear,Queens,None,WireCage,Damage,OnCurb,Plantable,11.3,Fair
+200026,Honeylocust,Bronx,3or4,None,NoDamage,OnCurb,Plantable,7.7,Poor
+200027,London planetree,Queens,None,None,NoDamage,OnCurb,Artificial,9.9,Fair
+200028,London planetree,Manhattan,4orMore,WireCage,Damage,OnCurb,Artificial,22.4,Poor
+200029,Honeylocust,Bronx,3or4,Hurdle,NoDamage,OffsetFromCurb,Stone,8.8,Good
+200030,American elm,Brooklyn,1or2,WireCage,Damage,OnCurb,Artificial,9.2,Fair
+200031,Pin oak,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,11.7,Good
+200032,Callery pear,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Stone,8.0,Good
+200033,London planetree,Queens,3or4,Hurdle,NoDamage,OnCurb,Artificial,11.3,Good
+200034,Honeylocust,Staten Island,3or4,WireCage,NoDamage,OnCurb,Artificial,19.9,Fair
+200035,Callery pear,Queens,None,WireCage,NoDamage,OffsetFromCurb,Stone,18.2,Poor
+200036,London planetree,Queens,None,WireCage,NoDamage,OffsetFromCurb,Stone,12.1,Good
+200037,Japanese zelkova,Queens,None,MetalGrate,NoDamage,OnCurb,Stone,21.7,Good
+200038,London planetree,Brooklyn,None,WireCage,NoDamage,OnCurb,Stone,3,Good
+200039,Japanese zelkova,Bronx,4orMore,None,NoDamage,OnCurb,Artificial,21.3,Good
+200040,Pin oak,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,12.9,Poor
+200041,Callery pear,Queens,3or4,Hurdle,NoDamage,OnCurb,Stone,12.7,Good
+200042,Honeylocust,Queens,3or4,None,NoDamage,OnCurb,Plantable,12.3,Good
+200043,Littleleaf linden,Queens,3or4,Hurdle,NoDamage,OnCurb,Artificial,15.5,Good
+200044,Callery pear,Manhattan,1or2,None,NoDamage,OnCurb,Plantable,20.3,Good
+200045,London planetree,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Stone,7.8,Good
+200046,London planetree,Bronx,None,None,NoDamage,OnCurb,Plantable,10.7,Fair
+200047,Callery pear,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Artificial,10.6,Good
+200048,London planetree,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Plantable,15.4,Poor
+200049,Ginkgo,Staten Island,3or4,Hurdle,NoDamage,OnCurb,Well-maintained,6.0,Good
+200050,Japanese zelkova,Queens,1or2,None,NoDamage,OffsetFromCurb,Stone,6.0,Good
+200051,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Artificial,12.1,Fair
+200052,Pin oak,Bronx,None,Hurdle,NoDamage,OnCurb,Plantable,18.5,Fair
+200053,Japanese zelkova,Queens,None,None,NoDamage,OffsetFromCurb,Well-maintained,9.3,Poor
+200054,Callery pear,Queens,1or2,Hurdle,NoDamage,OnCurb,Plantable,17.5,Fair
+200055,Callery pear,Bronx,1or2,None,NoDamage,OnCurb,Plantable,13.8,Good
+200056,London planetree,Queens,None,None,Damage,OnCurb,Artificial,9.1,Fair
+200057,Pin oak,Queens,None,None,Damage,OnCurb,Well-maintained,20.5,Good
+200058,Pin oak,Queens,1or2,MetalGrate,NoDamage,OnCurb,Artificial,14.5,Good
+200059,Ginkgo,Brooklyn,1or2,MetalGrate,Damage,OnCurb,Stone,15.1,Good
+200060,American elm,Staten Island,None,None,NoDamage,OffsetFromCurb,Well-maintained,6.7,Good
+200061,Pin oak,Queens,None,MetalGrate,NoDamage,OnCurb,Artificial,17.8,Poor
+200062,American elm,Brooklyn,1or2,None,NoDamage,OnCurb,Well-maintained,14.0,Poor
+200063,Ginkgo,Queens,1or2,None,NoDamage,OffsetFromCurb,Artificial,10.9,Fair
+200064,Callery pear,Manhattan,1or2,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,21.8,Good
+200065,Callery pear,Queens,None,None,NoDamage,OnCurb,Artificial,18.4,Poor
+200066,Honeylocust,Queens,1or2,None,Damage,OffsetFromCurb,Artificial,11.9,Fair
+200067,Pin oak,Queens,1or2,MetalGrate,Damage,OnCurb,Stone,7.3,Good
+200068,Ginkgo,Manhattan,1or2,None,NoDamage,OnCurb,Stone,12.5,Good
+200069,London planetree,Bronx,1or2,MetalGrate,Damage,OnCurb,Plantable,16.8,Fair
+200070,Littleleaf linden,Manhattan,None,None,Damage,OnCurb,Artificial,19.2,Good
+200071,Littleleaf linden,Manhattan,1or2,None,NoDamage,OnCurb,Well-maintained,13.5,Good
+200072,Callery pear,Manhattan,None,None,NoDamage,OnCurb,Well-maintained,11.4,Fair
+200073,London planetree,Bronx,1or2,None,NoDamage,OnCurb,Stone,14.1,Fair
+200074,American elm,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,10.6,Good
+200075,Pin oak,Staten Island,None,None,NoDamage,OnCurb,Artificial,19.5,Good
+200076,London planetree,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Stone,5.7,Poor
+200077,American elm,Queens,1or2,WireCage,NoDamage,OnCurb,Stone,15.2,Poor
+200078,American elm,Bronx,None,None,NoDamage,OnCurb,Artificial,18.4,Fair
+200079,Littleleaf linden,Manhattan,1or2,None,Damage,OnCurb,Artificial,18.4,Good
+200080,London planetree,Staten Island,3or4,Hurdle,NoDamage,OffsetFromCurb,Stone,12.8,Fair
+200081,Callery pear,Queens,4orMore,None,NoDamage,OffsetFromCurb,Plantable,14.4,Good
+200082,Honeylocust,Brooklyn,1or2,MetalGrate,NoDamage,OffsetFromCurb,Artificial,21.6,Good
+200083,Callery pear,Brooklyn,None,WireCage,NoDamage,OnCurb,Well-maintained,9.9,Fair
+200084,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Stone,14.8,Poor
+200085,Callery pear,Queens,None,WireCage,NoDamage,OnCurb,Artificial,19.0,Fair
+200086,Ginkgo,Bronx,4orMore,WireCage,NoDamage,OnCurb,Well-maintained,5.1,Good
+200087,Honeylocust,Queens,4orMore,None,NoDamage,OnCurb,Well-maintained,13.1,Good
+200088,Japanese zelkova,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,14.7,Good
+200089,Ginkgo,Staten Island,1or2,None,NoDamage,OnCurb,Plantable,9.3,Good
+200090,Callery pear,Brooklyn,None,Hurdle,NoDamage,OnCurb,Stone,21.0,Fair
+200091,American elm,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Artificial,15.2,Good
+200092,Ginkgo,Queens,3or4,None,NoDamage,OnCurb,Stone,6.8,Good
+200093,Callery pear,Staten Island,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,16.9,Poor
+200094,Honeylocust,Brooklyn,3or4,MetalGrate,NoDamage,OnCurb,Artificial,5.3,Poor
+200095,Pin oak,Brooklyn,None,Hurdle,NoDamage,OnCurb,Stone,4.7,Poor
+200096,London planetree,Queens,None,None,Damage,OnCurb,Plantable,13.8,Good
+200097,Japanese zelkova,Queens,None,WireCage,Damage,OnCurb,Artificial,10.1,Good
+200098,London planetree,Queens,3or4,Hurdle,Damage,OnCurb,Plantable,6.9,Good
+200099,Honeylocust,Queens,None,None,NoDamage,OnCurb,Plantable,9.3,Fair
+200100,Littleleaf linden,Brooklyn,4orMore,Hurdle,NoDamage,OnCurb,Stone,12.9,Good
+200101,Callery pear,Staten Island,None,MetalGrate,NoDamage,OnCurb,Plantable,11.4,Fair
+200102,Pin oak,Queens,1or2,MetalGrate,NoDamage,OffsetFromCurb,Stone,11.0,Good
+200103,Pin oak,Bronx,None,MetalGrate,Damage,OnCurb,Plantable,18.0,Poor
+200104,Callery pear,Staten Island,3or4,None,NoDamage,OnCurb,Stone,12.9,Good
+200105,Littleleaf linden,Bronx,4orMore,WireCage,NoDamage,OffsetFromCurb,Well-maintained,8.5,Fair
+200106,Honeylocust,Queens,None,None,NoDamage,OffsetFromCurb,Stone,5.0,Poor
+200107,London planetree,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Artificial,8.3,Good
+200108,American elm,Staten Island,None,None,Damage,OffsetFromCurb,Artificial,10.7,Poor
+200109,London planetree,Manhattan,1or2,MetalGrate,NoDamage,OnCurb,Stone,13.1,Good
+200110,Callery pear,Bronx,1or2,None,NoDamage,OnCurb,Plantable,3,Poor
+200111,London planetree,Queens,1or2,WireCage,NoDamage,OnCurb,Artificial,17.3,Good
+200112,American elm,Manhattan,1or2,Hurdle,NoDamage,OnCurb,Stone,13.1,Good
+200113,London planetree,Queens,None,None,NoDamage,OnCurb,Artificial,15.6,Poor
+200114,London planetree,Queens,None,None,NoDamage,OnCurb,Stone,13.9,Fair
+200115,Honeylocust,Brooklyn,None,None,NoDamage,OnCurb,Stone,13.1,Fair
+200116,American elm,Manhattan,None,None,NoDamage,OnCurb,Stone,17.1,Good
+200117,Littleleaf linden,Bronx,1or2,None,NoDamage,OnCurb,Well-maintained,8.5,Good
+200118,London planetree,Manhattan,None,None,NoDamage,OnCurb,Artificial,19.1,Good
+200119,Ginkgo,Bronx,1or2,MetalGrate,NoDamage,OffsetFromCurb,Stone,12.8,Good
+200120,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Plantable,10.5,Good
+200121,Japanese zelkova,Bronx,3or4,None,Damage,OffsetFromCurb,Stone,8.8,Fair
+200122,Ginkgo,Manhattan,None,None,NoDamage,OffsetFromCurb,Stone,18.4,Poor
+200123,Ginkgo,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,7.1,Fair
+200124,Honeylocust,Queens,1or2,MetalGrate,NoDamage,OffsetFromCurb,Stone,7.6,Good
+200125,Japanese zelkova,Queens,None,None,NoDamage,OnCurb,Plantable,8.3,Good
+200126,Japanese zelkova,Manhattan,None,None,NoDamage,OnCurb,Stone,14.1,Good
+200127,Honeylocust,Queens,3or4,Hurdle,Damage,OnCurb,Artificial,18.1,Fair
+200128,Pin oak,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,17.0,Good
+200129,Pin oak,Manhattan,1or2,None,NoDamage,OnCurb,Artificial,16.5,Good
+200130,London planetree,Bronx,None,None,Damage,OffsetFromCurb,Artificial,7.3,Fair
+200131,American elm,Queens,None,WireCage,Damage,OnCurb,Well-maintained,18.3,Poor
+200132,Ginkgo,Manhattan,1or2,None,Damage,OnCurb,Artificial,15.2,Poor
+200133,Japanese zelkova,Bronx,3or4,None,NoDamage,OnCurb,Plantable,6.4,Good
+200134,Honeylocust,Brooklyn,None,None,Damage,OnCurb,Well-maintained,8.3,Poor
+200135,American elm,Brooklyn,None,None,NoDamage,OffsetFromCurb,Stone,19.5,Good
+200136,American elm,Manhattan,3or4,MetalGrate,NoDamage,OffsetFromCurb,Plantable,8.4,Fair
+200137,Ginkgo,Bronx,None,None,NoDamage,OnCurb,Artificial,7.7,Fair
+200138,Honeylocust,Manhattan,None,MetalGrate,Damage,OffsetFromCurb,Well-maintained,8.5,Good
+200139,Ginkgo,Queens,3or4,None,NoDamage,OffsetFromCurb,Artificial,9.1,Good
+200140,London planetree,Bronx,None,WireCage,NoDamage,OffsetFromCurb,Plantable,14.8,Good
+200141,Callery pear,Manhattan,None,None,NoDamage,OnCurb,Plantable,16.3,Fair
+200142,American elm,Queens,None,None,NoDamage,OnCurb,Stone,7.0,Poor
+200143,Honeylocust,Manhattan,None,None,NoDamage,OffsetFromCurb,Plantable,3.9,Fair
+200144,Japanese zelkova,Brooklyn,None,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,12.5,Good
+200145,Ginkgo,Brooklyn,None,None,Damage,OnCurb,Well-maintained,5.4,Fair
+200146,London planetree,Bronx,None,MetalGrate,Damage,OffsetFromCurb,Well-maintained,14.0,Good
+200147,Pin oak,Bronx,None,None,NoDamage,OffsetFromCurb,Stone,12.1,Good
+200148,Callery pear,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,7.1,Good
+200149,American elm,Manhattan,3or4,None,NoDamage,OffsetFromCurb,Plantable,14.9,Good
+200150,Honeylocust,Manhattan,4orMore,MetalGrate,NoDamage,OnCurb,Artificial,6.6,Good
+200151,London planetree,Queens,3or4,None,NoDamage,OnCurb,Well-maintained,5.1,Good
+200152,Callery pear,Staten Island,None,None,NoDamage,OnCurb,Artificial,9.3,Poor
+200153,Honeylocust,Bronx,4orMore,MetalGrate,NoDamage,OffsetFromCurb,Artificial,13.0,Good
+200154,American elm,Queens,None,Hurdle,NoDamage,OnCurb,Artificial,12.6,Fair
+200155,Pin oak,Manhattan,None,None,NoDamage,OnCurb,Plantable,22.5,Fair
+200156,Callery pear,Bronx,3or4,Hurdle,Damage,OnCurb,Artificial,16.3,Fair
+200157,Honeylocust,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,17.2,Good
+200158,Littleleaf linden,Manhattan,None,None,NoDamage,OffsetFromCurb,Artificial,21.8,Good
+200159,Pin oak,Queens,3or4,MetalGrate,NoDamage,OnCurb,Plantable,13.9,Fair
+200160,London planetree,Queens,1or2,Hurdle,NoDamage,OffsetFromCurb,Artificial,13.9,Good
+200161,London planetree,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Plantable,7.5,Good
+200162,Pin oak,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Artificial,5.9,Fair
+200163,Japanese zelkova,Brooklyn,4orMore,None,NoDamage,OffsetFromCurb,Plantable,20.7,Fair
+200164,Pin oak,Bronx,1or2,MetalGrate,NoDamage,OnCurb,Artificial,10.7,Good
+200165,Callery pear,Queens,None,None,NoDamage,OnCurb,Well-maintained,9.4,Good
+200166,Littleleaf linden,Staten Island,None,Hurdle,NoDamage,OffsetFromCurb,Stone,15.7,Fair
+200167,American elm,Bronx,None,MetalGrate,NoDamage,OnCurb,Plantable,12.2,Fair
+200168,Pin oak,Staten Island,None,MetalGrate,NoDamage,OnCurb,Plantable,10.8,Good
+200169,Pin oak,Manhattan,None,Hurdle,NoDamage,OnCurb,Plantable,9.9,Poor
+200170,Honeylocust,Staten Island,1or2,None,NoDamage,OnCurb,Well-maintained,11.0,Fair
+200171,American elm,Brooklyn,None,None,NoDamage,OffsetFromCurb,Well-maintained,13.7,Fair
+200172,Japanese zelkova,Queens,3or4,None,Damage,OnCurb,Artificial,13.3,Fair
+200173,Honeylocust,Queens,1or2,Hurdle,Damage,OnCurb,Well-maintained,11.9,Fair
+200174,Callery pear,Queens,3or4,None,NoDamage,OffsetFromCurb,Plantable,11.0,Poor
+200175,American elm,Queens,None,WireCage,NoDamage,OffsetFromCurb,Artificial,8.8,Good
+200176,London planetree,Bronx,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,15.2,Good
+200177,Ginkgo,Bronx,None,None,NoDamage,OnCurb,Well-maintained,9.9,Good
+200178,Pin oak,Queens,1or2,MetalGrate,NoDamage,OffsetFromCurb,Artificial,19.9,Good
+200179,Pin oak,Queens,None,Hurdle,NoDamage,OnCurb,Artificial,15.0,Poor
+200180,Callery pear,Queens,1or2,None,Damage,OnCurb,Plantable,9.6,Fair
+200181,Honeylocust,Queens,3or4,WireCage,NoDamage,OnCurb,Plantable,13.3,Good
+200182,Honeylocust,Manhattan,None,None,Damage,OnCurb,Plantable,10.2,Poor
+200183,London planetree,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,10.5,Good
+200184,Honeylocust,Bronx,4orMore,None,NoDamage,OnCurb,Plantable,18.6,Poor
+200185,Pin oak,Manhattan,1or2,MetalGrate,NoDamage,OffsetFromCurb,Stone,14.8,Fair
+200186,Honeylocust,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,13.4,Poor
+200187,Pin oak,Bronx,4orMore,None,NoDamage,OnCurb,Well-maintained,9.0,Fair
+200188,London planetree,Manhattan,1or2,None,Damage,OnCurb,Plantable,6.4,Fair
+200189,Honeylocust,Queens,None,WireCage,NoDamage,OnCurb,Plantable,14.8,Fair
+200190,Callery pear,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,5.3,Fair
+200191,Pin oak,Bronx,1or2,WireCage,NoDamage,OffsetFromCurb,Plantable,8.5,Fair
+200192,Ginkgo,Bronx,1or2,Hurdle,NoDamage,OnCurb,Stone,24.9,Good
+200193,London planetree,Brooklyn,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,15.4,Poor
+200194,Pin oak,Bronx,None,None,NoDamage,OffsetFromCurb,Plantable,11.8,Poor
+200195,Honeylocust,Brooklyn,3or4,MetalGrate,NoDamage,OffsetFromCurb,Plantable,15.8,Good
+200196,Honeylocust,Manhattan,None,WireCage,NoDamage,OnCurb,Artificial,11.8,Good
+200197,Japanese zelkova,Queens,None,None,NoDamage,OnCurb,Well-maintained,8.8,Fair
+200198,Littleleaf linden,Queens,None,None,NoDamage,OnCurb,Plantable,12.8,Good
+200199,Callery pear,Staten Island,1or2,None,NoDamage,OnCurb,Artificial,18.7,Fair
+200200,Callery pear,Queens,None,None,NoDamage,OnCurb,Stone,19.3,Poor
+200201,Callery pear,Staten Island,3or4,None,Damage,OffsetFromCurb,Artificial,13.2,Fair
+200202,Japanese zelkova,Bronx,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,17.7,Good
+200203,Japanese zelkova,Staten Island,None,None,NoDamage,OffsetFromCurb,Well-maintained,22.2,Poor
+200204,London planetree,Manhattan,None,WireCage,NoDamage,OffsetFromCurb,Plantable,3,Fair
+200205,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Artificial,13.5,Fair
+200206,American elm,Manhattan,3or4,None,NoDamage,OffsetFromCurb,Well-maintained,10.9,Good
+200207,London planetree,Bronx,None,None,NoDamage,OnCurb,Stone,12.8,Poor
+200208,Honeylocust,Queens,None,Hurdle,NoDamage,OnCurb,Artificial,11.2,Good
+200209,Japanese zelkova,Queens,None,None,NoDamage,OnCurb,Plantable,17.8,Good
+200210,London planetree,Bronx,3or4,Hurdle,NoDamage,OnCurb,Plantable,5.8,Good
+200211,Honeylocust,Queens,3or4,None,NoDamage,OffsetFromCurb,Artificial,11.3,Good
+200212,London planetree,Manhattan,1or2,Hurdle,Damage,OnCurb,Plantable,15.5,Fair
+200213,London planetree,Manhattan,3or4,None,NoDamage,OnCurb,Artificial,15.3,Good
+200214,American elm,Queens,None,MetalGrate,NoDamage,OnCurb,Artificial,12.0,Poor
+200215,Japanese zelkova,Bronx,4orMore,None,NoDamage,OffsetFromCurb,Stone,14.5,Poor
+200216,Ginkgo,Brooklyn,4orMore,None,NoDamage,OffsetFromCurb,Plantable,10.0,Good
+200217,Pin oak,Brooklyn,None,None,NoDamage,OffsetFromCurb,Artificial,6.3,Good
+200218,London planetree,Brooklyn,1or2,Hurdle,NoDamage,OffsetFromCurb,Artificial,10.7,Poor
+200219,Pin oak,Bronx,3or4,None,NoDamage,OffsetFromCurb,Artificial,16.3,Good
+200220,London planetree,Bronx,1or2,Hurdle,Damage,OffsetFromCurb,Plantable,13.3,Poor
+200221,London planetree,Manhattan,None,MetalGrate,NoDamage,OnCurb,Plantable,16.5,Fair
+200222,Honeylocust,Brooklyn,None,Hurdle,NoDamage,OnCurb,Artificial,22.8,Poor
+200223,Ginkgo,Brooklyn,1or2,WireCage,NoDamage,OffsetFromCurb,Stone,9.7,Good
+200224,Callery pear,Bronx,None,MetalGrate,NoDamage,OffsetFromCurb,Artificial,10.6,Poor
+200225,Ginkgo,Staten Island,1or2,None,NoDamage,OnCurb,Stone,4.3,Poor
+200226,American elm,Bronx,3or4,None,NoDamage,OffsetFromCurb,Plantable,15.3,Fair
+200227,Pin oak,Manhattan,1or2,WireCage,NoDamage,OffsetFromCurb,Artificial,10.7,Poor
+200228,Littleleaf linden,Bronx,4orMore,None,NoDamage,OnCurb,Artificial,18.5,Fair
+200229,Honeylocust,Manhattan,None,None,NoDamage,OnCurb,Artificial,9.8,Poor
+200230,Callery pear,Queens,4orMore,None,NoDamage,OnCurb,Artificial,15.4,Poor
+200231,Ginkgo,Brooklyn,None,None,NoDamage,OffsetFromCurb,Plantable,16.1,Fair
+200232,Pin oak,Brooklyn,3or4,WireCage,NoDamage,OnCurb,Artificial,13.8,Fair
+200233,Callery pear,Staten Island,1or2,Hurdle,Damage,OnCurb,Well-maintained,10.1,Poor
+200234,Pin oak,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Artificial,8.2,Fair
+200235,Pin oak,Queens,1or2,None,Damage,OnCurb,Artificial,12.8,Fair
+200236,Honeylocust,Staten Island,None,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,14.8,Good
+200237,London planetree,Manhattan,3or4,None,NoDamage,OnCurb,Plantable,14.4,Good
+200238,Littleleaf linden,Brooklyn,1or2,MetalGrate,NoDamage,OffsetFromCurb,Stone,17.1,Good
+200239,London planetree,Bronx,None,None,NoDamage,OffsetFromCurb,Plantable,15.7,Poor
+200240,London planetree,Manhattan,None,None,NoDamage,OffsetFromCurb,Plantable,14.9,Poor
+200241,Japanese zelkova,Manhattan,None,WireCage,NoDamage,OffsetFromCurb,Plantable,13.6,Fair
+200242,Pin oak,Brooklyn,None,None,NoDamage,OffsetFromCurb,Plantable,16.6,Fair
+200243,London planetree,Staten Island,3or4,None,NoDamage,OnCurb,Plantable,10.3,Fair
+200244,Honeylocust,Queens,4orMore,None,NoDamage,OnCurb,Artificial,18.8,Good
+200245,Littleleaf linden,Brooklyn,1or2,Hurdle,Damage,OnCurb,Stone,12.7,Fair
+200246,London planetree,Bronx,3or4,Hurdle,NoDamage,OnCurb,Artificial,17.3,Good
+200247,Honeylocust,Bronx,None,None,NoDamage,OnCurb,Artificial,13.1,Good
+200248,London planetree,Manhattan,None,None,NoDamage,OnCurb,Artificial,21.8,Poor
+200249,Ginkgo,Bronx,None,None,NoDamage,OnCurb,Artificial,6.7,Good
+200250,Callery pear,Manhattan,None,None,NoDamage,OnCurb,Plantable,13.8,Good
+200251,Littleleaf linden,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Stone,15.2,Poor
+200252,Littleleaf linden,Bronx,None,WireCage,Damage,OnCurb,Well-maintained,17.1,Fair
+200253,Callery pear,Manhattan,None,None,NoDamage,OnCurb,Artificial,12.2,Fair
+200254,Ginkgo,Manhattan,1or2,Hurdle,NoDamage,OnCurb,Stone,9.2,Good
+200255,American elm,Queens,None,None,NoDamage,OnCurb,Stone,14.6,Fair
+200256,American elm,Bronx,4orMore,None,NoDamage,OnCurb,Well-maintained,10.8,Fair
+200257,Honeylocust,Staten Island,1or2,Hurdle,Damage,OffsetFromCurb,Stone,7.2,Good
+200258,Ginkgo,Bronx,4orMore,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,12.3,Good
+200259,Callery pear,Manhattan,1or2,Hurdle,NoDamage,OnCurb,Stone,13.3,Good
+200260,Callery pear,Brooklyn,None,None,NoDamage,OffsetFromCurb,Artificial,15.6,Good
+200261,Callery pear,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Artificial,12.0,Good
+200262,American elm,Bronx,3or4,Hurdle,NoDamage,OnCurb,Well-maintained,13.1,Good
+200263,Ginkgo,Staten Island,None,None,Damage,OffsetFromCurb,Plantable,16.1,Good
+200264,Ginkgo,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,13.6,Good
+200265,Japanese zelkova,Brooklyn,None,None,NoDamage,OffsetFromCurb,Plantable,11.3,Fair
+200266,Ginkgo,Queens,1or2,None,NoDamage,OnCurb,Stone,11.9,Good
+200267,London planetree,Bronx,None,None,Damage,OffsetFromCurb,Plantable,9.0,Fair
+200268,London planetree,Brooklyn,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,7.5,Good
+200269,Honeylocust,Manhattan,None,None,Damage,OnCurb,Stone,11.0,Poor
+200270,Callery pear,Manhattan,1or2,None,NoDamage,OnCurb,Artificial,21.3,Good
+200271,Honeylocust,Manhattan,None,None,NoDamage,OffsetFromCurb,Plantable,14.6,Good
+200272,London planetree,Queens,3or4,None,NoDamage,OnCurb,Stone,3,Good
+200273,American elm,Queens,None,WireCage,NoDamage,OnCurb,Stone,8.7,Good
+200274,Littleleaf linden,Queens,None,MetalGrate,NoDamage,OnCurb,Stone,11.0,Good
+200275,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Artificial,10.8,Fair
+200276,Honeylocust,Brooklyn,3or4,WireCage,NoDamage,OnCurb,Well-maintained,15.5,Poor
+200277,Japanese zelkova,Bronx,3or4,None,NoDamage,OffsetFromCurb,Stone,3,Fair
+200278,Callery pear,Manhattan,None,None,NoDamage,OffsetFromCurb,Well-maintained,18.0,Good
+200279,Japanese zelkova,Brooklyn,4orMore,None,Damage,OffsetFromCurb,Stone,16.3,Fair
+200280,Callery pear,Queens,None,None,NoDamage,OnCurb,Plantable,13.9,Poor
+200281,Honeylocust,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Artificial,16.8,Good
+200282,American elm,Manhattan,None,MetalGrate,NoDamage,OnCurb,Well-maintained,15.3,Good
+200283,Ginkgo,Bronx,4orMore,None,NoDamage,OnCurb,Plantable,20.3,Poor
+200284,London planetree,Brooklyn,None,Hurdle,NoDamage,OffsetFromCurb,Stone,18.7,Good
+200285,London planetree,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Plantable,13.0,Good
+200286,London planetree,Brooklyn,3or4,None,NoDamage,OffsetFromCurb,Artificial,14.2,Good
+200287,Littleleaf linden,Bronx,1or2,None,NoDamage,OnCurb,Stone,4.7,Fair
+200288,London planetree,Brooklyn,1or2,MetalGrate,Damage,OnCurb,Stone,8.8,Poor
+200289,Honeylocust,Bronx,None,None,NoDamage,OnCurb,Plantable,10.4,Fair
+200290,Pin oak,Queens,1or2,None,NoDamage,OnCurb,Stone,12.5,Poor
+200291,Littleleaf linden,Manhattan,None,None,NoDamage,OnCurb,Well-maintained,14.6,Poor
+200292,Japanese zelkova,Bronx,3or4,Hurdle,NoDamage,OffsetFromCurb,Stone,21.2,Good
+200293,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Plantable,10.6,Good
+200294,Callery pear,Queens,None,None,NoDamage,OnCurb,Artificial,9.6,Poor
+200295,Callery pear,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Stone,12.8,Fair
+200296,American elm,Bronx,None,None,NoDamage,OnCurb,Artificial,12.6,Good
+200297,Pin oak,Queens,None,WireCage,NoDamage,OffsetFromCurb,Stone,4.8,Good
+200298,London planetree,Queens,None,WireCage,NoDamage,OnCurb,Stone,12.7,Fair
+200299,Ginkgo,Bronx,1or2,None,NoDamage,OnCurb,Plantable,14.8,Good
+200300,London planetree,Manhattan,3or4,None,NoDamage,OnCurb,Well-maintained,13.2,Good
+200301,London planetree,Staten Island,3or4,Hurdle,NoDamage,OffsetFromCurb,Plantable,18.6,Good
+200302,Callery pear,Queens,None,None,NoDamage,OnCurb,Well-maintained,16.9,Poor
+200303,Littleleaf linden,Bronx,1or2,None,NoDamage,OnCurb,Plantable,21.2,Good
+200304,London planetree,Manhattan,None,Hurdle,NoDamage,OnCurb,Plantable,13.5,Poor
+200305,Pin oak,Brooklyn,None,None,NoDamage,OnCurb,Well-maintained,9.7,Poor
+200306,Littleleaf linden,Bronx,1or2,MetalGrate,NoDamage,OnCurb,Plantable,13.4,Good
+200307,Littleleaf linden,Queens,None,WireCage,NoDamage,OnCurb,Stone,18.8,Good
+200308,Littleleaf linden,Bronx,None,None,NoDamage,OnCurb,Plantable,3,Good
+200309,Honeylocust,Brooklyn,3or4,Hurdle,NoDamage,OnCurb,Artificial,18.1,Good
+200310,London planetree,Queens,1or2,None,Damage,OnCurb,Plantable,3,Good
+200311,Honeylocust,Brooklyn,None,None,NoDamage,OffsetFromCurb,Stone,10.1,Good
+200312,American elm,Brooklyn,None,None,NoDamage,OnCurb,Stone,12.0,Good
+200313,Callery pear,Manhattan,3or4,None,NoDamage,OffsetFromCurb,Artificial,28.3,Good
+200314,American elm,Staten Island,None,MetalGrate,NoDamage,OffsetFromCurb,Stone,9.6,Fair
+200315,London planetree,Bronx,3or4,None,Damage,OffsetFromCurb,Well-maintained,11.1,Good
+200316,London planetree,Manhattan,None,Hurdle,NoDamage,OnCurb,Artificial,11.7,Good
+200317,London planetree,Brooklyn,3or4,None,NoDamage,OnCurb,Artificial,10.2,Good
+200318,Ginkgo,Bronx,None,None,Damage,OffsetFromCurb,Plantable,6.9,Poor
+200319,Littleleaf linden,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Plantable,6.4,Good
+200320,London planetree,Brooklyn,None,WireCage,NoDamage,OnCurb,Well-maintained,4.6,Poor
+200321,Littleleaf linden,Bronx,1or2,None,NoDamage,OffsetFromCurb,Artificial,11.4,Poor
+200322,London planetree,Queens,3or4,None,NoDamage,OffsetFromCurb,Artificial,5.4,Fair
+200323,Japanese zelkova,Bronx,1or2,WireCage,NoDamage,OnCurb,Artificial,8.0,Poor
+200324,Japanese zelkova,Manhattan,None,None,Damage,OnCurb,Artificial,12.8,Poor
+200325,London planetree,Bronx,3or4,WireCage,NoDamage,OnCurb,Artificial,13.0,Good
+200326,Japanese zelkova,Queens,3or4,WireCage,NoDamage,OnCurb,Well-maintained,11.2,Good
+200327,London planetree,Bronx,4orMore,MetalGrate,NoDamage,OffsetFromCurb,Artificial,14.4,Poor
+200328,Pin oak,Staten Island,3or4,None,NoDamage,OnCurb,Artificial,12.0,Fair
+200329,Littleleaf linden,Staten Island,None,WireCage,NoDamage,OnCurb,Plantable,10.6,Poor
+200330,Littleleaf linden,Brooklyn,1or2,WireCage,Damage,OffsetFromCurb,Artificial,16.0,Poor
+200331,London planetree,Queens,1or2,WireCage,NoDamage,OnCurb,Artificial,12.7,Good
+200332,Honeylocust,Bronx,None,None,NoDamage,OffsetFromCurb,Well-maintained,8.1,Good
+200333,London planetree,Manhattan,3or4,Hurdle,NoDamage,OnCurb,Artificial,13.2,Fair
+200334,Honeylocust,Brooklyn,4orMore,None,Damage,OnCurb,Stone,3,Good
+200335,Ginkgo,Queens,1or2,None,NoDamage,OnCurb,Well-maintained,9.9,Good
+200336,London planetree,Brooklyn,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,12.3,Good
+200337,Ginkgo,Queens,None,None,NoDamage,OnCurb,Stone,16.6,Fair
+200338,London planetree,Bronx,None,None,Damage,OffsetFromCurb,Artificial,8.4,Fair
+200339,London planetree,Manhattan,None,WireCage,NoDamage,OnCurb,Artificial,16.5,Good
+200340,London planetree,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Plantable,3,Good
+200341,Ginkgo,Queens,3or4,None,NoDamage,OffsetFromCurb,Plantable,9.6,Fair
+200342,Callery pear,Bronx,3or4,Hurdle,NoDamage,OffsetFromCurb,Stone,9.9,Good
+200343,Pin oak,Bronx,4orMore,WireCage,NoDamage,OnCurb,Plantable,6.8,Poor
+200344,Callery pear,Staten Island,1or2,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,17.5,Good
+200345,Honeylocust,Brooklyn,1or2,WireCage,NoDamage,OnCurb,Plantable,15.0,Good
+200346,Callery pear,Bronx,1or2,MetalGrate,NoDamage,OffsetFromCurb,Plantable,16.3,Good
+200347,Honeylocust,Brooklyn,None,None,NoDamage,OnCurb,Artificial,15.4,Good
+200348,Ginkgo,Queens,None,WireCage,NoDamage,OnCurb,Stone,22.4,Good
+200349,American elm,Brooklyn,None,None,NoDamage,OnCurb,Well-maintained,7.9,Good
+200350,Littleleaf linden,Manhattan,3or4,None,NoDamage,OffsetFromCurb,Artificial,15.2,Fair
+200351,Pin oak,Queens,3or4,None,Damage,OnCurb,Plantable,22.0,Good
+200352,Japanese zelkova,Queens,None,None,NoDamage,OffsetFromCurb,Artificial,3,Fair
+200353,Honeylocust,Queens,1or2,Hurdle,Damage,OnCurb,Plantable,16.0,Fair
+200354,London planetree,Queens,1or2,None,Damage,OffsetFromCurb,Stone,11.5,Good
+200355,London planetree,Manhattan,4orMore,MetalGrate,NoDamage,OffsetFromCurb,Artificial,9.2,Good
+200356,London planetree,Queens,3or4,None,NoDamage,OffsetFromCurb,Plantable,16.8,Fair
+200357,Honeylocust,Staten Island,1or2,None,NoDamage,OnCurb,Artificial,13.2,Good
+200358,Pin oak,Queens,None,None,NoDamage,OffsetFromCurb,Well-maintained,7.9,Fair
+200359,Honeylocust,Bronx,None,WireCage,NoDamage,OffsetFromCurb,Artificial,18.1,Fair
+200360,Japanese zelkova,Brooklyn,None,MetalGrate,NoDamage,OffsetFromCurb,Stone,7.1,Fair
+200361,Pin oak,Queens,4orMore,None,NoDamage,OnCurb,Artificial,8.7,Fair
+200362,Ginkgo,Brooklyn,3or4,None,NoDamage,OffsetFromCurb,Well-maintained,10.2,Fair
+200363,American elm,Queens,None,None,Damage,OnCurb,Stone,7.8,Poor
+200364,London planetree,Queens,None,None,NoDamage,OffsetFromCurb,Artificial,14.1,Good
+200365,Honeylocust,Queens,1or2,WireCage,NoDamage,OffsetFromCurb,Artificial,8.6,Poor
+200366,Callery pear,Queens,None,None,Damage,OffsetFromCurb,Artificial,14.6,Fair
+200367,Japanese zelkova,Manhattan,None,Hurdle,NoDamage,OnCurb,Plantable,17.9,Good
+200368,Ginkgo,Bronx,None,MetalGrate,Damage,OffsetFromCurb,Plantable,13.2,Fair
+200369,Ginkgo,Brooklyn,4orMore,None,Damage,OnCurb,Plantable,10.9,Good
+200370,Honeylocust,Queens,None,Hurdle,NoDamage,OnCurb,Stone,11.5,Good
+200371,Ginkgo,Bronx,3or4,None,NoDamage,OffsetFromCurb,Plantable,15.2,Good
+200372,Japanese zelkova,Staten Island,None,WireCage,NoDamage,OnCurb,Well-maintained,17.4,Good
+200373,Pin oak,Bronx,3or4,Hurdle,Damage,OnCurb,Stone,10.5,Good
+200374,Japanese zelkova,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Stone,20.6,Good
+200375,Honeylocust,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Artificial,13.9,Fair
+200376,Pin oak,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,14.8,Good
+200377,London planetree,Brooklyn,None,None,Damage,OffsetFromCurb,Artificial,14.7,Good
+200378,Callery pear,Brooklyn,4orMore,None,Damage,OffsetFromCurb,Well-maintained,16.8,Good
+200379,London planetree,Manhattan,3or4,None,NoDamage,OnCurb,Well-maintained,6.6,Good
+200380,Callery pear,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,12.8,Fair
+200381,London planetree,Queens,1or2,None,NoDamage,OnCurb,Plantable,10.8,Poor
+200382,London planetree,Queens,None,None,NoDamage,OnCurb,Plantable,18.3,Fair
+200383,American elm,Bronx,1or2,None,NoDamage,OnCurb,Plantable,5.8,Fair
+200384,American elm,Queens,None,None,NoDamage,OnCurb,Stone,20.1,Good
+200385,Japanese zelkova,Bronx,None,None,NoDamage,OnCurb,Stone,3,Fair
+200386,Pin oak,Manhattan,1or2,WireCage,NoDamage,OnCurb,Plantable,12.3,Good
+200387,Honeylocust,Brooklyn,1or2,None,NoDamage,OnCurb,Well-maintained,10.9,Good
+200388,Ginkgo,Bronx,3or4,MetalGrate,NoDamage,OnCurb,Plantable,13.8,Good
+200389,London planetree,Queens,None,None,NoDamage,OffsetFromCurb,Plantable,26.2,Poor
+200390,Callery pear,Bronx,1or2,Hurdle,Damage,OnCurb,Plantable,15.2,Fair
+200391,Ginkgo,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Plantable,13.0,Good
+200392,London planetree,Manhattan,1or2,Hurdle,NoDamage,OffsetFromCurb,Stone,19.4,Good
+200393,Honeylocust,Queens,4orMore,None,NoDamage,OffsetFromCurb,Artificial,18.5,Good
+200394,London planetree,Queens,3or4,None,NoDamage,OnCurb,Well-maintained,8.7,Fair
+200395,Pin oak,Bronx,None,WireCage,NoDamage,OnCurb,Stone,16.4,Good
+200396,Pin oak,Staten Island,None,None,NoDamage,OnCurb,Well-maintained,16.0,Good
+200397,Japanese zelkova,Bronx,1or2,MetalGrate,Damage,OnCurb,Plantable,8.1,Poor
+200398,Callery pear,Brooklyn,4orMore,WireCage,NoDamage,OnCurb,Well-maintained,18.4,Good
+200399,Callery pear,Queens,3or4,None,NoDamage,OffsetFromCurb,Stone,12.0,Poor
+200400,Ginkgo,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,5.6,Good
+200401,Pin oak,Brooklyn,None,None,NoDamage,OnCurb,Stone,3,Good
+200402,Pin oak,Queens,None,MetalGrate,NoDamage,OnCurb,Artificial,17.6,Good
+200403,Pin oak,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,18.9,Fair
+200404,London planetree,Queens,None,WireCage,NoDamage,OffsetFromCurb,Stone,9.6,Fair
+200405,American elm,Brooklyn,1or2,WireCage,NoDamage,OffsetFromCurb,Well-maintained,11.6,Good
+200406,Ginkgo,Bronx,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,19.6,Good
+200407,Pin oak,Manhattan,1or2,MetalGrate,NoDamage,OnCurb,Artificial,8.9,Good
+200408,London planetree,Bronx,1or2,None,NoDamage,OnCurb,Artificial,9.7,Good
+200409,Pin oak,Bronx,None,None,Damage,OffsetFromCurb,Plantable,11.1,Fair
+200410,Callery pear,Manhattan,None,MetalGrate,NoDamage,OnCurb,Artificial,18.4,Good
+200411,Callery pear,Bronx,None,None,NoDamage,OnCurb,Artificial,15.5,Fair
+200412,Callery pear,Staten Island,3or4,WireCage,Damage,OffsetFromCurb,Plantable,18.7,Fair
+200413,Littleleaf linden,Queens,None,WireCage,NoDamage,OnCurb,Plantable,9.1,Good
+200414,Japanese zelkova,Queens,None,MetalGrate,NoDamage,OnCurb,Well-maintained,15.1,Poor
+200415,London planetree,Staten Island,1or2,None,Damage,OffsetFromCurb,Stone,18.6,Poor
+200416,Callery pear,Bronx,1or2,Hurdle,NoDamage,OffsetFromCurb,Stone,20.7,Good
+200417,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Plantable,9.9,Good
+200418,Honeylocust,Brooklyn,1or2,None,Damage,OffsetFromCurb,Plantable,8.6,Fair
+200419,Ginkgo,Queens,None,WireCage,Damage,OffsetFromCurb,Artificial,7.6,Good
+200420,Pin oak,Brooklyn,None,Hurdle,NoDamage,OnCurb,Artificial,6.1,Fair
+200421,Littleleaf linden,Bronx,1or2,WireCage,NoDamage,OffsetFromCurb,Plantable,18.7,Poor
+200422,Ginkgo,Manhattan,None,None,NoDamage,OnCurb,Well-maintained,10.2,Poor
+200423,Honeylocust,Brooklyn,1or2,None,Damage,OnCurb,Well-maintained,20.8,Good
+200424,London planetree,Queens,3or4,MetalGrate,NoDamage,OffsetFromCurb,Plantable,9.1,Good
+200425,London planetree,Queens,1or2,None,Damage,OffsetFromCurb,Artificial,11.7,Fair
+200426,Japanese zelkova,Brooklyn,1or2,Hurdle,NoDamage,OnCurb,Plantable,10.1,Good
+200427,London planetree,Brooklyn,None,MetalGrate,NoDamage,OffsetFromCurb,Artificial,16.3,Fair
+200428,Japanese zelkova,Manhattan,None,None,NoDamage,OnCurb,Plantable,18.4,Good
+200429,Callery pear,Brooklyn,3or4,None,Damage,OnCurb,Plantable,4.7,Good
+200430,Ginkgo,Brooklyn,1or2,WireCage,NoDamage,OnCurb,Well-maintained,4.5,Good
+200431,London planetree,Queens,3or4,None,NoDamage,OnCurb,Plantable,14.5,Good
+200432,Pin oak,Queens,3or4,Hurdle,Damage,OnCurb,Plantable,18.2,Fair
+200433,Littleleaf linden,Queens,1or2,None,Damage,OnCurb,Artificial,24.0,Good
+200434,London planetree,Brooklyn,3or4,None,NoDamage,OnCurb,Artificial,17.4,Fair
+200435,Callery pear,Queens,3or4,None,NoDamage,OnCurb,Stone,12.5,Good
+200436,Pin oak,Queens,1or2,None,NoDamage,OnCurb,Plantable,16.9,Good
+200437,Ginkgo,Manhattan,None,None,Damage,OffsetFromCurb,Artificial,8.7,Good
+200438,Honeylocust,Queens,None,None,NoDamage,OffsetFromCurb,Plantable,9.6,Good
+200439,American elm,Bronx,None,Hurdle,Damage,OnCurb,Artificial,13.5,Fair
+200440,London planetree,Brooklyn,None,WireCage,NoDamage,OnCurb,Artificial,11.6,Good
+200441,London planetree,Manhattan,4orMore,WireCage,Damage,OffsetFromCurb,Plantable,5.8,Fair
+200442,American elm,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,10.0,Good
+200443,London planetree,Brooklyn,3or4,None,NoDamage,OnCurb,Artificial,11.1,Good
+200444,Ginkgo,Bronx,3or4,None,Damage,OnCurb,Artificial,5.5,Poor
+200445,American elm,Queens,1or2,None,Damage,OnCurb,Artificial,7.3,Poor
+200446,American elm,Brooklyn,1or2,MetalGrate,NoDamage,OffsetFromCurb,Artificial,16.8,Good
+200447,Japanese zelkova,Brooklyn,3or4,None,Damage,OffsetFromCurb,Stone,17.2,Fair
+200448,London planetree,Bronx,1or2,Hurdle,NoDamage,OnCurb,Artificial,10.8,Fair
+200449,Callery pear,Brooklyn,None,Hurdle,NoDamage,OnCurb,Stone,9.9,Fair
+200450,Honeylocust,Manhattan,None,None,NoDamage,OffsetFromCurb,Stone,17.5,Fair
+200451,Callery pear,Queens,None,None,NoDamage,OnCurb,Plantable,7.2,Fair
+200452,Pin oak,Bronx,4orMore,None,Damage,OnCurb,Well-maintained,11.3,Good
+200453,London planetree,Bronx,None,WireCage,NoDamage,OnCurb,Stone,13.7,Fair
+200454,Littleleaf linden,Queens,1or2,None,Damage,OffsetFromCurb,Stone,12.7,Fair
+200455,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Artificial,14.3,Poor
+200456,American elm,Brooklyn,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,16.5,Poor
+200457,Japanese zelkova,Brooklyn,4orMore,None,NoDamage,OnCurb,Well-maintained,15.2,Good
+200458,Honeylocust,Brooklyn,None,None,NoDamage,OffsetFromCurb,Stone,22.8,Poor
+200459,Ginkgo,Queens,4orMore,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,10.3,Good
+200460,Callery pear,Manhattan,None,None,Damage,OffsetFromCurb,Well-maintained,11.4,Good
+200461,Littleleaf linden,Manhattan,None,MetalGrate,NoDamage,OnCurb,Stone,9.8,Poor
+200462,London planetree,Staten Island,1or2,None,NoDamage,OnCurb,Well-maintained,8.5,Good
+200463,London planetree,Queens,3or4,None,Damage,OnCurb,Plantable,3,Good
+200464,London planetree,Staten Island,1or2,Hurdle,NoDamage,OffsetFromCurb,Plantable,18.5,Good
+200465,Callery pear,Staten Island,3or4,WireCage,NoDamage,OffsetFromCurb,Well-maintained,14.5,Good
+200466,London planetree,Manhattan,None,MetalGrate,NoDamage,OnCurb,Plantable,7.0,Good
+200467,Littleleaf linden,Queens,1or2,Hurdle,Damage,OnCurb,Plantable,17.7,Good
+200468,Ginkgo,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,9.6,Fair
+200469,Honeylocust,Queens,None,None,Damage,OnCurb,Artificial,13.0,Good
+200470,Honeylocust,Brooklyn,1or2,None,Damage,OffsetFromCurb,Artificial,14.1,Fair
+200471,Littleleaf linden,Queens,1or2,MetalGrate,NoDamage,OnCurb,Plantable,10.1,Good
+200472,Honeylocust,Queens,None,MetalGrate,NoDamage,OnCurb,Plantable,10.6,Good
+200473,Japanese zelkova,Brooklyn,None,None,NoDamage,OffsetFromCurb,Artificial,17.1,Fair
+200474,Ginkgo,Bronx,3or4,None,NoDamage,OnCurb,Stone,16.8,Good
+200475,Ginkgo,Bronx,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,9.9,Fair
+200476,London planetree,Bronx,None,None,NoDamage,OnCurb,Stone,12.3,Poor
+200477,Honeylocust,Manhattan,4orMore,None,Damage,OnCurb,Stone,18.4,Fair
+200478,Littleleaf linden,Queens,None,None,Damage,OnCurb,Well-maintained,11.9,Fair
+200479,Pin oak,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,12.7,Good
+200480,Honeylocust,Queens,None,MetalGrate,Damage,OffsetFromCurb,Well-maintained,10.4,Poor
+200481,Callery pear,Brooklyn,1or2,WireCage,NoDamage,OnCurb,Plantable,18.1,Good
+200482,Ginkgo,Manhattan,1or2,Hurdle,NoDamage,OnCurb,Plantable,14.8,Good
+200483,Honeylocust,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Plantable,7.9,Good
+200484,Japanese zelkova,Staten Island,1or2,None,NoDamage,OnCurb,Artificial,17.8,Good
+200485,Ginkgo,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Artificial,13.2,Good
+200486,Honeylocust,Queens,3or4,MetalGrate,NoDamage,OnCurb,Stone,14.9,Fair
+200487,London planetree,Brooklyn,1or2,Hurdle,NoDamage,OnCurb,Artificial,8.2,Good
+200488,London planetree,Manhattan,None,None,NoDamage,OffsetFromCurb,Stone,13.3,Good
+200489,Honeylocust,Brooklyn,3or4,WireCage,NoDamage,OffsetFromCurb,Plantable,15.8,Fair
+200490,Littleleaf linden,Bronx,3or4,None,NoDamage,OnCurb,Well-maintained,16.8,Good
+200491,Pin oak,Brooklyn,3or4,None,NoDamage,OnCurb,Plantable,4.4,Fair
+200492,Callery pear,Staten Island,1or2,Hurdle,NoDamage,OnCurb,Plantable,24.4,Good
+200493,Honeylocust,Queens,None,WireCage,NoDamage,OnCurb,Artificial,16.1,Fair
+200494,Honeylocust,Bronx,None,None,NoDamage,OnCurb,Artificial,14.2,Fair
+200495,Honeylocust,Bronx,None,None,NoDamage,OffsetFromCurb,Well-maintained,7.4,Fair
+200496,London planetree,Queens,1or2,MetalGrate,Damage,OnCurb,Well-maintained,15.0,Fair
+200497,Callery pear,Brooklyn,1or2,None,Damage,OffsetFromCurb,Plantable,4.8,Good
+200498,Honeylocust,Queens,None,None,NoDamage,OffsetFromCurb,Artificial,18.4,Fair
+200499,London planetree,Bronx,None,None,NoDamage,OnCurb,Plantable,3.3,Good
+200500,London planetree,Bronx,3or4,MetalGrate,NoDamage,OffsetFromCurb,Stone,8.2,Good
+200501,Callery pear,Manhattan,1or2,None,NoDamage,OnCurb,Plantable,11.8,Good
+200502,American elm,Bronx,3or4,None,NoDamage,OnCurb,Plantable,16.8,Good
+200503,Pin oak,Brooklyn,None,Hurdle,Damage,OffsetFromCurb,Artificial,6.7,Fair
+200504,Japanese zelkova,Bronx,3or4,None,NoDamage,OffsetFromCurb,Plantable,7.7,Fair
+200505,Honeylocust,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,18.8,Fair
+200506,Callery pear,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,11.0,Fair
+200507,Honeylocust,Manhattan,1or2,WireCage,Damage,OnCurb,Plantable,14.2,Good
+200508,London planetree,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Artificial,7.1,Good
+200509,Pin oak,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Artificial,19.1,Poor
+200510,Callery pear,Brooklyn,3or4,WireCage,NoDamage,OnCurb,Well-maintained,11.6,Good
+200511,Japanese zelkova,Bronx,3or4,Hurdle,NoDamage,OnCurb,Plantable,17.0,Poor
+200512,London planetree,Bronx,None,None,NoDamage,OnCurb,Artificial,13.8,Good
+200513,Japanese zelkova,Queens,3or4,MetalGrate,Damage,OffsetFromCurb,Stone,11.0,Good
+200514,Japanese zelkova,Manhattan,None,MetalGrate,NoDamage,OnCurb,Artificial,13.6,Fair
+200515,Callery pear,Queens,3or4,None,NoDamage,OnCurb,Artificial,8.4,Fair
+200516,Honeylocust,Brooklyn,None,None,Damage,OnCurb,Artificial,20.7,Fair
+200517,Callery pear,Manhattan,1or2,None,NoDamage,OnCurb,Artificial,15.5,Good
+200518,Ginkgo,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,17.2,Good
+200519,Pin oak,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Stone,17.8,Good
+200520,Japanese zelkova,Bronx,1or2,None,NoDamage,OnCurb,Plantable,17.2,Poor
+200521,Ginkgo,Staten Island,1or2,None,Damage,OffsetFromCurb,Artificial,13.6,Good
+200522,Pin oak,Queens,None,None,NoDamage,OffsetFromCurb,Well-maintained,13.4,Fair
+200523,London planetree,Manhattan,None,None,NoDamage,OnCurb,Plantable,12.2,Good
+200524,Callery pear,Queens,None,Hurdle,Damage,OnCurb,Stone,15.9,Good
+200525,American elm,Queens,None,Hurdle,Damage,OnCurb,Artificial,13.8,Poor
+200526,Pin oak,Queens,None,WireCage,NoDamage,OnCurb,Plantable,15.3,Good
+200527,Japanese zelkova,Manhattan,None,None,NoDamage,OffsetFromCurb,Artificial,12.7,Good
+200528,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Plantable,14.2,Fair
+200529,American elm,Queens,3or4,WireCage,NoDamage,OnCurb,Plantable,26.8,Good
+200530,London planetree,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Plantable,10.5,Good
+200531,London planetree,Staten Island,3or4,None,NoDamage,OnCurb,Artificial,10.5,Good
+200532,American elm,Queens,None,Hurdle,NoDamage,OnCurb,Well-maintained,15.8,Poor
+200533,Japanese zelkova,Brooklyn,1or2,WireCage,Damage,OnCurb,Well-maintained,12.6,Fair
+200534,Pin oak,Queens,None,None,NoDamage,OffsetFromCurb,Well-maintained,16.7,Fair
+200535,London planetree,Brooklyn,3or4,Hurdle,NoDamage,OnCurb,Artificial,11.4,Good
+200536,Pin oak,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,6.1,Good
+200537,London planetree,Brooklyn,None,MetalGrate,Damage,OnCurb,Plantable,20.0,Fair
+200538,Littleleaf linden,Queens,None,WireCage,NoDamage,OffsetFromCurb,Plantable,10.5,Good
+200539,Callery pear,Bronx,3or4,None,NoDamage,OnCurb,Stone,17.9,Fair
+200540,Callery pear,Queens,3or4,None,NoDamage,OffsetFromCurb,Artificial,19.0,Good
+200541,Pin oak,Manhattan,1or2,Hurdle,Damage,OnCurb,Plantable,12.8,Good
+200542,American elm,Manhattan,1or2,Hurdle,Damage,OnCurb,Artificial,15.6,Fair
+200543,London planetree,Queens,4orMore,Hurdle,Damage,OnCurb,Plantable,8.2,Good
+200544,Ginkgo,Queens,None,None,NoDamage,OffsetFromCurb,Well-maintained,15.3,Good
+200545,London planetree,Manhattan,None,None,NoDamage,OffsetFromCurb,Plantable,5.4,Poor
+200546,Honeylocust,Brooklyn,3or4,WireCage,NoDamage,OffsetFromCurb,Artificial,15.1,Good
+200547,Callery pear,Brooklyn,3or4,None,NoDamage,OnCurb,Artificial,10.7,Good
+200548,Ginkgo,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Well-maintained,13.5,Good
+200549,Callery pear,Bronx,1or2,None,NoDamage,OnCurb,Plantable,19.6,Fair
+200550,London planetree,Bronx,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,9.6,Good
+200551,Callery pear,Bronx,1or2,Hurdle,NoDamage,OnCurb,Stone,23.7,Good
+200552,Callery pear,Manhattan,4orMore,None,NoDamage,OnCurb,Plantable,17.8,Good
+200553,Honeylocust,Bronx,1or2,None,NoDamage,OnCurb,Stone,15.2,Fair
+200554,London planetree,Queens,1or2,WireCage,NoDamage,OffsetFromCurb,Well-maintained,17.1,Good
+200555,Honeylocust,Manhattan,4orMore,None,Damage,OnCurb,Plantable,12.6,Fair
+200556,Callery pear,Bronx,1or2,Hurdle,NoDamage,OnCurb,Artificial,11.2,Poor
+200557,American elm,Staten Island,None,None,NoDamage,OffsetFromCurb,Artificial,11.2,Good
+200558,Honeylocust,Queens,None,None,NoDamage,OnCurb,Stone,8.6,Fair
+200559,London planetree,Bronx,None,None,NoDamage,OffsetFromCurb,Stone,19.7,Fair
+200560,Callery pear,Queens,3or4,None,NoDamage,OffsetFromCurb,Plantable,12.6,Good
+200561,Pin oak,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,3.5,Good
+200562,Littleleaf linden,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Plantable,7.8,Poor
+200563,Pin oak,Queens,None,None,NoDamage,OnCurb,Artificial,17.3,Good
+200564,Littleleaf linden,Brooklyn,None,None,NoDamage,OffsetFromCurb,Well-maintained,11.9,Good
+200565,Callery pear,Brooklyn,4orMore,MetalGrate,NoDamage,OffsetFromCurb,Artificial,13.4,Fair
+200566,American elm,Staten Island,1or2,None,NoDamage,OnCurb,Stone,12.6,Poor
+200567,Pin oak,Manhattan,None,None,Damage,OnCurb,Stone,12.9,Fair
+200568,Ginkgo,Brooklyn,3or4,None,Damage,OnCurb,Artificial,10.7,Good
+200569,Honeylocust,Bronx,1or2,None,Damage,OnCurb,Artificial,13.9,Good
+200570,Pin oak,Brooklyn,None,None,NoDamage,OnCurb,Plantable,16.9,Fair
+200571,London planetree,Bronx,1or2,None,NoDamage,OnCurb,Well-maintained,17.1,Fair
+200572,Ginkgo,Brooklyn,3or4,Hurdle,NoDamage,OnCurb,Well-maintained,13.2,Good
+200573,American elm,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Plantable,7.4,Good
+200574,London planetree,Queens,1or2,WireCage,NoDamage,OffsetFromCurb,Stone,15.5,Good
+200575,London planetree,Manhattan,None,None,Damage,OffsetFromCurb,Plantable,3,Good
+200576,London planetree,Queens,3or4,None,NoDamage,OffsetFromCurb,Plantable,8.8,Good
+200577,Callery pear,Staten Island,None,None,NoDamage,OnCurb,Stone,16.0,Fair
+200578,American elm,Manhattan,None,Hurdle,Damage,OffsetFromCurb,Plantable,6.3,Fair
+200579,Ginkgo,Queens,None,WireCage,Damage,OnCurb,Stone,13.6,Poor
+200580,Honeylocust,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,12.9,Good
+200581,London planetree,Manhattan,None,Hurdle,Damage,OffsetFromCurb,Artificial,12.9,Fair
+200582,Japanese zelkova,Brooklyn,4orMore,None,NoDamage,OnCurb,Artificial,27.6,Good
+200583,London planetree,Brooklyn,None,Hurdle,Damage,OffsetFromCurb,Well-maintained,13.7,Good
+200584,Japanese zelkova,Queens,None,Hurdle,NoDamage,OnCurb,Plantable,8.4,Fair
+200585,Callery pear,Brooklyn,None,WireCage,NoDamage,OnCurb,Well-maintained,17.3,Fair
+200586,London planetree,Bronx,None,MetalGrate,NoDamage,OnCurb,Well-maintained,19.2,Good
+200587,Callery pear,Queens,1or2,None,Damage,OnCurb,Plantable,16.6,Fair
+200588,Honeylocust,Brooklyn,1or2,Hurdle,NoDamage,OnCurb,Plantable,7.7,Good
+200589,Littleleaf linden,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Artificial,16.3,Fair
+200590,Littleleaf linden,Staten Island,3or4,None,Damage,OffsetFromCurb,Artificial,4.9,Poor
+200591,London planetree,Queens,3or4,None,Damage,OnCurb,Stone,14.4,Good
+200592,Callery pear,Manhattan,3or4,None,NoDamage,OffsetFromCurb,Artificial,24.0,Fair
+200593,Pin oak,Manhattan,None,None,Damage,OnCurb,Well-maintained,15.5,Poor
+200594,Ginkgo,Brooklyn,None,None,NoDamage,OnCurb,Artificial,11.1,Good
+200595,London planetree,Bronx,1or2,None,NoDamage,OffsetFromCurb,Artificial,22.7,Fair
+200596,Callery pear,Queens,3or4,None,Damage,OnCurb,Well-maintained,16.3,Poor
+200597,American elm,Brooklyn,1or2,Hurdle,Damage,OffsetFromCurb,Plantable,17.8,Fair
+200598,Pin oak,Bronx,None,None,NoDamage,OffsetFromCurb,Stone,8.2,Fair
+200599,Callery pear,Bronx,3or4,None,NoDamage,OnCurb,Stone,12.0,Poor
+200600,Pin oak,Bronx,4orMore,Hurdle,NoDamage,OnCurb,Well-maintained,15.8,Good
+200601,London planetree,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,9.5,Good
+200602,Honeylocust,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,14.9,Good
+200603,London planetree,Brooklyn,None,None,Damage,OffsetFromCurb,Stone,14.3,Poor
+200604,Littleleaf linden,Queens,1or2,None,NoDamage,OnCurb,Stone,18.2,Poor
+200605,Japanese zelkova,Queens,None,None,NoDamage,OffsetFromCurb,Well-maintained,9.2,Good
+200606,Callery pear,Staten Island,3or4,None,Damage,OnCurb,Stone,9.7,Good
+200607,Littleleaf linden,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,16.0,Good
+200608,London planetree,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,18.8,Good
+200609,Callery pear,Staten Island,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,15.9,Fair
+200610,Japanese zelkova,Manhattan,1or2,WireCage,NoDamage,OnCurb,Well-maintained,14.7,Good
+200611,London planetree,Staten Island,3or4,None,NoDamage,OffsetFromCurb,Plantable,4.4,Good
+200612,Callery pear,Queens,4orMore,None,NoDamage,OffsetFromCurb,Artificial,4.7,Good
+200613,London planetree,Bronx,None,None,NoDamage,OffsetFromCurb,Plantable,15.1,Good
+200614,London planetree,Queens,3or4,None,Damage,OffsetFromCurb,Plantable,11.2,Good
+200615,Honeylocust,Manhattan,3or4,None,NoDamage,OnCurb,Artificial,13.1,Fair
+200616,London planetree,Bronx,3or4,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,16.9,Poor
+200617,London planetree,Bronx,1or2,None,NoDamage,OnCurb,Stone,18.3,Good
+200618,London planetree,Bronx,None,MetalGrate,NoDamage,OnCurb,Plantable,14.0,Good
+200619,American elm,Brooklyn,3or4,None,NoDamage,OffsetFromCurb,Stone,10.8,Good
+200620,Littleleaf linden,Manhattan,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,11.7,Good
+200621,Callery pear,Queens,1or2,None,NoDamage,OnCurb,Artificial,15.2,Poor
+200622,Ginkgo,Queens,None,None,Damage,OnCurb,Artificial,7.0,Fair
+200623,American elm,Queens,1or2,None,NoDamage,OnCurb,Plantable,4.5,Poor
+200624,Ginkgo,Bronx,None,None,NoDamage,OnCurb,Stone,12.7,Good
+200625,London planetree,Manhattan,None,None,NoDamage,OnCurb,Artificial,13.4,Fair
+200626,Pin oak,Brooklyn,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,16.3,Good
+200627,Ginkgo,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Artificial,19.7,Fair
+200628,Japanese zelkova,Bronx,3or4,None,Damage,OffsetFromCurb,Stone,9.3,Good
+200629,Pin oak,Brooklyn,3or4,None,Damage,OffsetFromCurb,Well-maintained,10.6,Good
+200630,London planetree,Manhattan,1or2,WireCage,Damage,OffsetFromCurb,Plantable,10.9,Fair
+200631,Ginkgo,Staten Island,None,None,NoDamage,OnCurb,Artificial,14.8,Poor
+200632,Callery pear,Bronx,None,WireCage,NoDamage,OffsetFromCurb,Plantable,10.7,Poor
+200633,Japanese zelkova,Bronx,3or4,None,NoDamage,OnCurb,Well-maintained,11.0,Good
+200634,Pin oak,Queens,None,None,NoDamage,OffsetFromCurb,Plantable,16.9,Good
+200635,Littleleaf linden,Bronx,1or2,MetalGrate,Damage,OnCurb,Plantable,18.3,Fair
+200636,American elm,Manhattan,None,Hurdle,Damage,OffsetFromCurb,Well-maintained,15.8,Fair
+200637,London planetree,Manhattan,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,16.1,Good
+200638,American elm,Queens,None,MetalGrate,NoDamage,OnCurb,Plantable,14.2,Poor
+200639,Honeylocust,Bronx,1or2,None,NoDamage,OnCurb,Stone,11.5,Fair
+200640,London planetree,Queens,3or4,None,NoDamage,OffsetFromCurb,Well-maintained,16.7,Good
+200641,Honeylocust,Bronx,1or2,None,NoDamage,OnCurb,Well-maintained,16.1,Good
+200642,London planetree,Manhattan,4orMore,Hurdle,NoDamage,OnCurb,Stone,13.7,Good
+200643,Pin oak,Brooklyn,None,None,NoDamage,OnCurb,Artificial,17.6,Fair
+200644,Pin oak,Manhattan,None,Hurdle,NoDamage,OffsetFromCurb,Stone,14.7,Poor
+200645,Callery pear,Bronx,3or4,None,NoDamage,OnCurb,Artificial,12.3,Fair
+200646,Callery pear,Queens,1or2,Hurdle,NoDamage,OffsetFromCurb,Plantable,16.1,Good
+200647,Ginkgo,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Stone,16.4,Good
+200648,Honeylocust,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Plantable,12.1,Fair
+200649,London planetree,Brooklyn,1or2,WireCage,NoDamage,OnCurb,Plantable,15.5,Good
+200650,London planetree,Staten Island,3or4,None,NoDamage,OffsetFromCurb,Stone,11.6,Good
+200651,London planetree,Brooklyn,None,None,Damage,OnCurb,Artificial,10.5,Good
+200652,Honeylocust,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Plantable,10.2,Good
+200653,Honeylocust,Bronx,3or4,WireCage,NoDamage,OffsetFromCurb,Plantable,13.0,Good
+200654,Littleleaf linden,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Plantable,10.0,Poor
+200655,London planetree,Manhattan,None,None,NoDamage,OnCurb,Artificial,5.5,Good
+200656,Ginkgo,Manhattan,None,WireCage,NoDamage,OnCurb,Plantable,6.0,Good
+200657,Callery pear,Brooklyn,None,Hurdle,NoDamage,OffsetFromCurb,Plantable,15.5,Good
+200658,Japanese zelkova,Brooklyn,None,None,NoDamage,OffsetFromCurb,Well-maintained,19.9,Good
+200659,Littleleaf linden,Queens,None,MetalGrate,NoDamage,OnCurb,Well-maintained,17.2,Good
+200660,Ginkgo,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,21.1,Good
+200661,Callery pear,Staten Island,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,10.9,Good
+200662,Honeylocust,Manhattan,None,MetalGrate,NoDamage,OnCurb,Plantable,11.9,Good
+200663,Honeylocust,Staten Island,3or4,None,NoDamage,OffsetFromCurb,Plantable,13.3,Good
+200664,Pin oak,Brooklyn,None,None,NoDamage,OnCurb,Stone,7.4,Poor
+200665,Ginkgo,Manhattan,1or2,None,NoDamage,OnCurb,Well-maintained,9.9,Good
+200666,London planetree,Brooklyn,3or4,None,Damage,OnCurb,Plantable,17.0,Good
+200667,Callery pear,Staten Island,1or2,MetalGrate,Damage,OnCurb,Stone,10.5,Fair
+200668,Japanese zelkova,Queens,1or2,None,NoDamage,OffsetFromCurb,Artificial,4.8,Good
+200669,Callery pear,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,8.5,Good
+200670,London planetree,Staten Island,1or2,MetalGrate,NoDamage,OnCurb,Plantable,13.1,Good
+200671,London planetree,Queens,4orMore,None,NoDamage,OnCurb,Stone,10.5,Poor
+200672,Ginkgo,Queens,None,Hurdle,Damage,OffsetFromCurb,Artificial,14.7,Good
+200673,London planetree,Bronx,None,Hurdle,NoDamage,OnCurb,Stone,10.8,Fair
+200674,London planetree,Bronx,3or4,None,Damage,OnCurb,Artificial,19.8,Fair
+200675,American elm,Staten Island,None,WireCage,Damage,OnCurb,Artificial,16.0,Poor
+200676,Littleleaf linden,Staten Island,None,None,NoDamage,OffsetFromCurb,Artificial,10.9,Fair
+200677,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Well-maintained,12.0,Good
+200678,London planetree,Manhattan,1or2,None,NoDamage,OnCurb,Well-maintained,15.0,Good
+200679,London planetree,Brooklyn,None,WireCage,Damage,OnCurb,Artificial,17.2,Fair
+200680,Pin oak,Manhattan,None,None,Damage,OnCurb,Plantable,7.8,Fair
+200681,Ginkgo,Brooklyn,3or4,None,Damage,OffsetFromCurb,Plantable,25.6,Fair
+200682,London planetree,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Artificial,16.1,Good
+200683,London planetree,Staten Island,4orMore,None,NoDamage,OnCurb,Plantable,17.0,Poor
+200684,London planetree,Queens,3or4,None,NoDamage,OnCurb,Artificial,14.8,Good
+200685,Callery pear,Manhattan,None,None,NoDamage,OffsetFromCurb,Artificial,6.0,Good
+200686,Callery pear,Queens,None,None,Damage,OnCurb,Stone,17.8,Fair
+200687,London planetree,Queens,None,None,NoDamage,OffsetFromCurb,Stone,12.1,Good
+200688,Pin oak,Manhattan,None,None,NoDamage,OnCurb,Well-maintained,18.2,Poor
+200689,Honeylocust,Brooklyn,None,None,Damage,OnCurb,Well-maintained,14.0,Good
+200690,Pin oak,Manhattan,None,Hurdle,NoDamage,OnCurb,Stone,8.9,Fair
+200691,Callery pear,Queens,1or2,None,NoDamage,OffsetFromCurb,Plantable,6.6,Good
+200692,Littleleaf linden,Brooklyn,None,None,NoDamage,OnCurb,Stone,23.4,Good
+200693,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Stone,14.8,Fair
+200694,Japanese zelkova,Bronx,None,None,Damage,OnCurb,Plantable,17.2,Poor
+200695,Honeylocust,Queens,1or2,WireCage,NoDamage,OnCurb,Plantable,8.1,Fair
+200696,London planetree,Queens,None,None,NoDamage,OnCurb,Plantable,9.5,Good
+200697,American elm,Queens,3or4,None,NoDamage,OnCurb,Well-maintained,17.1,Good
+200698,London planetree,Queens,None,MetalGrate,Damage,OnCurb,Artificial,14.8,Good
+200699,American elm,Queens,None,MetalGrate,NoDamage,OnCurb,Artificial,7.6,Good
+200700,Ginkgo,Manhattan,3or4,None,Damage,OffsetFromCurb,Well-maintained,9.9,Poor
+200701,Pin oak,Manhattan,4orMore,None,NoDamage,OffsetFromCurb,Plantable,11.4,Good
+200702,Ginkgo,Manhattan,None,None,Damage,OffsetFromCurb,Artificial,9.0,Poor
+200703,London planetree,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Plantable,14.7,Good
+200704,London planetree,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Plantable,12.2,Good
+200705,London planetree,Brooklyn,3or4,Hurdle,Damage,OffsetFromCurb,Well-maintained,11.9,Good
+200706,London planetree,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Plantable,8.2,Good
+200707,Littleleaf linden,Queens,None,None,NoDamage,OffsetFromCurb,Plantable,18.5,Poor
+200708,Littleleaf linden,Staten Island,None,WireCage,NoDamage,OnCurb,Stone,9.8,Good
+200709,Pin oak,Brooklyn,1or2,None,Damage,OffsetFromCurb,Plantable,18.8,Good
+200710,Ginkgo,Manhattan,None,WireCage,NoDamage,OnCurb,Stone,23.0,Poor
+200711,Honeylocust,Queens,3or4,None,NoDamage,OnCurb,Well-maintained,10.7,Good
+200712,Littleleaf linden,Queens,3or4,None,NoDamage,OnCurb,Well-maintained,7.0,Good
+200713,Japanese zelkova,Queens,None,WireCage,NoDamage,OffsetFromCurb,Artificial,19.9,Good
+200714,American elm,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Well-maintained,13.5,Good
+200715,Japanese zelkova,Queens,4orMore,None,NoDamage,OffsetFromCurb,Stone,7.9,Fair
+200716,American elm,Queens,1or2,None,NoDamage,OnCurb,Stone,12.6,Good
+200717,London planetree,Queens,1or2,MetalGrate,Damage,OnCurb,Plantable,7.5,Good
+200718,London planetree,Bronx,1or2,WireCage,NoDamage,OffsetFromCurb,Well-maintained,9.5,Good
+200719,Callery pear,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,4.8,Good
+200720,London planetree,Queens,4orMore,WireCage,NoDamage,OffsetFromCurb,Well-maintained,8.8,Fair
+200721,Littleleaf linden,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,7.4,Good
+200722,Honeylocust,Staten Island,None,Hurdle,NoDamage,OffsetFromCurb,Plantable,11.8,Fair
+200723,London planetree,Queens,3or4,None,NoDamage,OnCurb,Well-maintained,10.8,Good
+200724,Littleleaf linden,Brooklyn,1or2,None,NoDamage,OnCurb,Artificial,12.5,Poor
+200725,Honeylocust,Queens,1or2,None,Damage,OnCurb,Stone,19.9,Fair
+200726,Pin oak,Queens,3or4,None,Damage,OnCurb,Plantable,14.0,Poor
+200727,Japanese zelkova,Staten Island,1or2,MetalGrate,Damage,OnCurb,Plantable,23.9,Good
+200728,Honeylocust,Brooklyn,4orMore,Hurdle,NoDamage,OnCurb,Plantable,22.3,Good
+200729,Honeylocust,Manhattan,None,None,Damage,OnCurb,Well-maintained,8.7,Poor
+200730,Pin oak,Staten Island,None,WireCage,NoDamage,OffsetFromCurb,Artificial,8.9,Good
+200731,Littleleaf linden,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Artificial,22.7,Good
+200732,London planetree,Bronx,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,17.5,Fair
+200733,Callery pear,Manhattan,3or4,WireCage,Damage,OnCurb,Well-maintained,14.2,Good
+200734,London planetree,Manhattan,None,WireCage,NoDamage,OnCurb,Well-maintained,6.6,Good
+200735,London planetree,Queens,1or2,WireCage,Damage,OffsetFromCurb,Stone,11.9,Good
+200736,Ginkgo,Staten Island,3or4,None,Damage,OffsetFromCurb,Stone,3,Fair
+200737,London planetree,Staten Island,1or2,WireCage,NoDamage,OffsetFromCurb,Stone,16.5,Poor
+200738,Ginkgo,Brooklyn,None,Hurdle,NoDamage,OnCurb,Artificial,17.7,Good
+200739,London planetree,Staten Island,3or4,None,NoDamage,OnCurb,Stone,11.5,Good
+200740,Pin oak,Queens,None,None,NoDamage,OffsetFromCurb,Artificial,11.9,Fair
+200741,American elm,Manhattan,1or2,WireCage,NoDamage,OnCurb,Plantable,10.6,Fair
+200742,American elm,Queens,1or2,None,Damage,OnCurb,Plantable,14.2,Good
+200743,Callery pear,Queens,1or2,None,NoDamage,OffsetFromCurb,Plantable,20.5,Good
+200744,London planetree,Staten Island,3or4,None,NoDamage,OnCurb,Artificial,15.3,Good
+200745,London planetree,Queens,1or2,None,NoDamage,OnCurb,Plantable,13.7,Good
+200746,Pin oak,Bronx,None,None,Damage,OffsetFromCurb,Artificial,8.3,Fair
+200747,Ginkgo,Brooklyn,4orMore,WireCage,Damage,OnCurb,Stone,10.1,Good
+200748,Japanese zelkova,Bronx,1or2,None,Damage,OnCurb,Plantable,9.4,Poor
+200749,Ginkgo,Manhattan,1or2,WireCage,NoDamage,OffsetFromCurb,Stone,3.6,Good
+200750,Honeylocust,Bronx,None,None,Damage,OffsetFromCurb,Well-maintained,14.8,Fair
+200751,Callery pear,Queens,3or4,None,NoDamage,OnCurb,Plantable,20.0,Good
+200752,London planetree,Bronx,1or2,WireCage,NoDamage,OffsetFromCurb,Plantable,15.0,Fair
+200753,London planetree,Bronx,1or2,Hurdle,NoDamage,OffsetFromCurb,Stone,19.2,Good
+200754,Ginkgo,Brooklyn,1or2,None,NoDamage,OnCurb,Stone,15.4,Fair
+200755,Callery pear,Brooklyn,None,None,NoDamage,OnCurb,Plantable,7.7,Fair
+200756,Japanese zelkova,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,13.4,Poor
+200757,Honeylocust,Manhattan,3or4,Hurdle,Damage,OnCurb,Stone,16.5,Poor
+200758,American elm,Queens,3or4,MetalGrate,NoDamage,OffsetFromCurb,Plantable,11.3,Good
+200759,London planetree,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Artificial,21.1,Good
+200760,London planetree,Bronx,3or4,None,Damage,OffsetFromCurb,Well-maintained,14.8,Good
+200761,Ginkgo,Bronx,None,None,NoDamage,OnCurb,Artificial,13.4,Poor
+200762,Honeylocust,Bronx,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,7.9,Fair
+200763,London planetree,Bronx,1or2,MetalGrate,NoDamage,OffsetFromCurb,Artificial,15.1,Good
+200764,Ginkgo,Queens,4orMore,None,NoDamage,OnCurb,Plantable,12.7,Good
+200765,Honeylocust,Bronx,3or4,None,NoDamage,OffsetFromCurb,Artificial,10.7,Fair
+200766,Honeylocust,Manhattan,None,None,NoDamage,OnCurb,Stone,17.8,Good
+200767,London planetree,Queens,None,None,NoDamage,OffsetFromCurb,Stone,19.8,Good
+200768,London planetree,Bronx,None,MetalGrate,NoDamage,OnCurb,Artificial,16.0,Good
+200769,Pin oak,Queens,1or2,WireCage,Damage,OffsetFromCurb,Stone,12.7,Fair
+200770,Callery pear,Brooklyn,None,Hurdle,NoDamage,OnCurb,Stone,13.5,Good
+200771,Callery pear,Staten Island,1or2,None,Damage,OnCurb,Stone,12.7,Fair
+200772,Pin oak,Queens,3or4,None,Damage,OnCurb,Artificial,8.9,Fair
+200773,London planetree,Staten Island,None,None,NoDamage,OnCurb,Stone,19.9,Good
+200774,London planetree,Queens,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,14.4,Good
+200775,Ginkgo,Brooklyn,None,Hurdle,Damage,OnCurb,Stone,14.1,Fair
+200776,Littleleaf linden,Queens,4orMore,Hurdle,NoDamage,OnCurb,Plantable,9.2,Good
+200777,American elm,Queens,1or2,Hurdle,NoDamage,OnCurb,Artificial,10.4,Good
+200778,American elm,Brooklyn,None,Hurdle,NoDamage,OnCurb,Artificial,17.3,Good
+200779,Honeylocust,Manhattan,1or2,None,NoDamage,OnCurb,Plantable,9.3,Good
+200780,Callery pear,Staten Island,1or2,WireCage,NoDamage,OnCurb,Artificial,12.4,Fair
+200781,Japanese zelkova,Bronx,None,None,NoDamage,OffsetFromCurb,Plantable,10.4,Poor
+200782,Ginkgo,Brooklyn,None,Hurdle,Damage,OnCurb,Plantable,17.2,Fair
+200783,American elm,Bronx,1or2,None,NoDamage,OffsetFromCurb,Artificial,12.8,Fair
+200784,Callery pear,Bronx,None,WireCage,NoDamage,OnCurb,Plantable,20.1,Good
+200785,Pin oak,Manhattan,3or4,None,NoDamage,OnCurb,Plantable,7.9,Fair
+200786,Honeylocust,Queens,1or2,None,NoDamage,OnCurb,Plantable,23.1,Fair
+200787,Ginkgo,Queens,1or2,Hurdle,NoDamage,OffsetFromCurb,Plantable,10.3,Good
+200788,Ginkgo,Brooklyn,1or2,Hurdle,Damage,OnCurb,Artificial,3,Good
+200789,Japanese zelkova,Bronx,None,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,14.6,Good
+200790,American elm,Manhattan,None,None,NoDamage,OnCurb,Plantable,4.5,Good
+200791,Honeylocust,Bronx,None,None,Damage,OnCurb,Artificial,18.0,Fair
+200792,Callery pear,Bronx,1or2,None,Damage,OnCurb,Plantable,10.8,Good
+200793,Honeylocust,Queens,None,None,NoDamage,OnCurb,Plantable,17.7,Fair
+200794,Honeylocust,Bronx,None,None,NoDamage,OnCurb,Plantable,14.1,Good
+200795,Littleleaf linden,Queens,None,Hurdle,NoDamage,OnCurb,Plantable,23.4,Good
+200796,Ginkgo,Brooklyn,4orMore,None,NoDamage,OffsetFromCurb,Plantable,3.2,Good
+200797,London planetree,Manhattan,3or4,None,NoDamage,OnCurb,Well-maintained,18.1,Good
+200798,Ginkgo,Queens,None,None,NoDamage,OnCurb,Plantable,20.9,Fair
+200799,Honeylocust,Brooklyn,None,None,NoDamage,OnCurb,Plantable,15.3,Fair
+200800,Littleleaf linden,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Plantable,13.4,Good
+200801,Callery pear,Manhattan,None,Hurdle,NoDamage,OnCurb,Plantable,27.3,Poor
+200802,Pin oak,Brooklyn,3or4,Hurdle,NoDamage,OnCurb,Stone,11.8,Good
+200803,American elm,Queens,1or2,None,NoDamage,OffsetFromCurb,Plantable,11.4,Good
+200804,Pin oak,Queens,None,None,NoDamage,OnCurb,Artificial,17.0,Poor
+200805,Honeylocust,Bronx,1or2,None,NoDamage,OnCurb,Plantable,13.5,Good
+200806,Honeylocust,Staten Island,1or2,None,Damage,OffsetFromCurb,Plantable,17.4,Fair
+200807,Ginkgo,Queens,1or2,Hurdle,NoDamage,OnCurb,Artificial,8.3,Good
+200808,Honeylocust,Manhattan,None,None,NoDamage,OnCurb,Stone,20.7,Fair
+200809,Honeylocust,Manhattan,1or2,WireCage,NoDamage,OffsetFromCurb,Artificial,12.6,Poor
+200810,Callery pear,Staten Island,None,Hurdle,NoDamage,OnCurb,Stone,15.7,Good
+200811,Callery pear,Manhattan,None,None,Damage,OnCurb,Artificial,10.6,Poor
+200812,Littleleaf linden,Brooklyn,None,None,Damage,OnCurb,Plantable,17.7,Poor
+200813,Ginkgo,Queens,None,None,Damage,OnCurb,Plantable,16.3,Good
+200814,Honeylocust,Queens,4orMore,MetalGrate,NoDamage,OffsetFromCurb,Plantable,11.1,Good
+200815,London planetree,Brooklyn,3or4,None,Damage,OffsetFromCurb,Plantable,12.0,Good
+200816,Ginkgo,Bronx,1or2,Hurdle,NoDamage,OnCurb,Artificial,13.0,Good
+200817,Pin oak,Bronx,None,MetalGrate,NoDamage,OnCurb,Plantable,9.4,Poor
+200818,American elm,Manhattan,None,None,Damage,OnCurb,Artificial,13.8,Fair
+200819,Ginkgo,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Stone,9.8,Good
+200820,Honeylocust,Brooklyn,4orMore,MetalGrate,NoDamage,OffsetFromCurb,Stone,15.6,Good
+200821,Honeylocust,Bronx,1or2,Hurdle,Damage,OnCurb,Well-maintained,16.4,Poor
+200822,Callery pear,Brooklyn,None,WireCage,NoDamage,OnCurb,Stone,8.2,Fair
+200823,Honeylocust,Manhattan,4orMore,Hurdle,NoDamage,OnCurb,Plantable,3,Fair
+200824,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Artificial,11.8,Good
+200825,Pin oak,Brooklyn,None,WireCage,NoDamage,OnCurb,Artificial,3,Good
+200826,Honeylocust,Brooklyn,1or2,MetalGrate,Damage,OnCurb,Artificial,17.8,Fair
+200827,Honeylocust,Manhattan,None,None,NoDamage,OffsetFromCurb,Artificial,22.2,Fair
+200828,Honeylocust,Queens,None,WireCage,NoDamage,OnCurb,Stone,6.7,Poor
+200829,Littleleaf linden,Queens,3or4,None,Damage,OffsetFromCurb,Stone,3,Good
+200830,Honeylocust,Brooklyn,1or2,WireCage,NoDamage,OnCurb,Plantable,15.3,Fair
+200831,Honeylocust,Bronx,3or4,WireCage,NoDamage,OffsetFromCurb,Well-maintained,18.7,Good
+200832,London planetree,Manhattan,1or2,None,NoDamage,OffsetFromCurb,Stone,7.1,Good
+200833,Honeylocust,Brooklyn,1or2,Hurdle,NoDamage,OnCurb,Plantable,12.7,Poor
+200834,Ginkgo,Bronx,None,None,NoDamage,OnCurb,Artificial,18.0,Poor
+200835,Honeylocust,Manhattan,None,None,NoDamage,OnCurb,Plantable,8.8,Good
+200836,Ginkgo,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,14.6,Good
+200837,Honeylocust,Bronx,3or4,None,NoDamage,OffsetFromCurb,Well-maintained,16.3,Good
+200838,London planetree,Bronx,None,None,NoDamage,OnCurb,Stone,11.4,Fair
+200839,Littleleaf linden,Staten Island,3or4,MetalGrate,NoDamage,OnCurb,Artificial,9.3,Fair
+200840,American elm,Brooklyn,None,Hurdle,NoDamage,OnCurb,Plantable,13.2,Good
+200841,London planetree,Queens,1or2,None,NoDamage,OffsetFromCurb,Stone,10.2,Good
+200842,American elm,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Plantable,8.5,Good
+200843,London planetree,Staten Island,None,MetalGrate,NoDamage,OnCurb,Plantable,11.3,Fair
+200844,Callery pear,Queens,1or2,None,Damage,OffsetFromCurb,Well-maintained,20.0,Good
+200845,Ginkgo,Manhattan,1or2,WireCage,NoDamage,OnCurb,Plantable,23.2,Good
+200846,London planetree,Bronx,1or2,None,NoDamage,OnCurb,Artificial,11.8,Fair
+200847,Callery pear,Brooklyn,None,WireCage,NoDamage,OnCurb,Stone,12.6,Good
+200848,London planetree,Manhattan,None,MetalGrate,NoDamage,OnCurb,Artificial,7.4,Good
+200849,Littleleaf linden,Queens,None,None,NoDamage,OffsetFromCurb,Plantable,11.7,Fair
+200850,Japanese zelkova,Manhattan,1or2,Hurdle,NoDamage,OnCurb,Artificial,17.6,Fair
+200851,Callery pear,Staten Island,3or4,None,NoDamage,OffsetFromCurb,Artificial,15.0,Poor
+200852,Callery pear,Queens,3or4,None,NoDamage,OffsetFromCurb,Artificial,13.1,Fair
+200853,Callery pear,Staten Island,None,Hurdle,NoDamage,OffsetFromCurb,Artificial,23.7,Poor
+200854,Honeylocust,Queens,None,WireCage,NoDamage,OffsetFromCurb,Artificial,3,Good
+200855,Littleleaf linden,Bronx,None,MetalGrate,NoDamage,OnCurb,Artificial,13.6,Good
+200856,Callery pear,Bronx,1or2,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,12.4,Good
+200857,Japanese zelkova,Brooklyn,3or4,None,Damage,OnCurb,Artificial,13.4,Poor
+200858,London planetree,Queens,3or4,None,Damage,OnCurb,Artificial,8.1,Good
+200859,Pin oak,Queens,None,None,Damage,OnCurb,Stone,11.9,Good
+200860,Pin oak,Queens,3or4,Hurdle,NoDamage,OffsetFromCurb,Plantable,12.4,Good
+200861,American elm,Queens,4orMore,None,NoDamage,OnCurb,Plantable,14.5,Poor
+200862,Honeylocust,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Well-maintained,14.5,Good
+200863,London planetree,Brooklyn,1or2,None,Damage,OnCurb,Well-maintained,15.6,Good
+200864,London planetree,Brooklyn,None,None,NoDamage,OnCurb,Plantable,21.4,Fair
+200865,Honeylocust,Bronx,None,None,NoDamage,OffsetFromCurb,Artificial,16.7,Fair
+200866,Littleleaf linden,Queens,None,WireCage,NoDamage,OffsetFromCurb,Stone,7.1,Fair
+200867,Honeylocust,Queens,3or4,None,NoDamage,OnCurb,Plantable,3,Good
+200868,Ginkgo,Brooklyn,1or2,None,NoDamage,OffsetFromCurb,Artificial,5.1,Good
+200869,Pin oak,Queens,1or2,None,NoDamage,OnCurb,Artificial,5.9,Good
+200870,London planetree,Staten Island,1or2,WireCage,NoDamage,OnCurb,Artificial,7.8,Good
+200871,Littleleaf linden,Queens,None,None,NoDamage,OnCurb,Artificial,6.4,Fair
+200872,Japanese zelkova,Queens,None,Hurdle,NoDamage,OnCurb,Plantable,10.6,Good
+200873,Japanese zelkova,Bronx,None,Hurdle,Damage,OnCurb,Artificial,17.9,Fair
+200874,American elm,Staten Island,None,None,NoDamage,OnCurb,Stone,13.1,Good
+200875,Honeylocust,Manhattan,1or2,None,NoDamage,OnCurb,Well-maintained,16.1,Good
+200876,London planetree,Manhattan,1or2,MetalGrate,NoDamage,OffsetFromCurb,Stone,17.9,Fair
+200877,Pin oak,Staten Island,1or2,None,NoDamage,OnCurb,Plantable,13.6,Good
+200878,Honeylocust,Manhattan,None,None,NoDamage,OnCurb,Artificial,18.9,Fair
+200879,Callery pear,Staten Island,4orMore,WireCage,NoDamage,OnCurb,Stone,13.5,Good
+200880,Callery pear,Bronx,4orMore,None,NoDamage,OnCurb,Plantable,12.6,Fair
+200881,Callery pear,Manhattan,1or2,Hurdle,NoDamage,OffsetFromCurb,Stone,24.0,Good
+200882,London planetree,Queens,1or2,Hurdle,NoDamage,OffsetFromCurb,Artificial,5.7,Good
+200883,Ginkgo,Staten Island,3or4,None,NoDamage,OffsetFromCurb,Well-maintained,15.1,Good
+200884,Ginkgo,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Artificial,8.8,Fair
+200885,Honeylocust,Brooklyn,None,WireCage,NoDamage,OnCurb,Plantable,25.4,Fair
+200886,Honeylocust,Bronx,3or4,WireCage,NoDamage,OnCurb,Well-maintained,13.1,Good
+200887,Pin oak,Manhattan,1or2,MetalGrate,Damage,OnCurb,Stone,12.7,Good
+200888,London planetree,Staten Island,1or2,MetalGrate,Damage,OnCurb,Artificial,13.2,Poor
+200889,Callery pear,Queens,1or2,WireCage,Damage,OnCurb,Plantable,9.1,Good
+200890,Honeylocust,Manhattan,1or2,Hurdle,Damage,OnCurb,Stone,19.6,Poor
+200891,London planetree,Manhattan,None,Hurdle,NoDamage,OffsetFromCurb,Well-maintained,13.3,Good
+200892,Honeylocust,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Well-maintained,10.5,Good
+200893,Honeylocust,Brooklyn,None,None,NoDamage,OffsetFromCurb,Well-maintained,8.8,Good
+200894,Ginkgo,Queens,None,Hurdle,NoDamage,OnCurb,Plantable,9.9,Good
+200895,London planetree,Staten Island,4orMore,MetalGrate,Damage,OnCurb,Artificial,8.2,Fair
+200896,Honeylocust,Manhattan,1or2,None,NoDamage,OnCurb,Plantable,23.5,Poor
+200897,Japanese zelkova,Staten Island,3or4,None,Damage,OnCurb,Plantable,8.2,Fair
+200898,Japanese zelkova,Manhattan,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,15.1,Good
+200899,London planetree,Queens,None,None,NoDamage,OffsetFromCurb,Artificial,10.9,Good
+200900,Pin oak,Bronx,4orMore,WireCage,NoDamage,OnCurb,Artificial,3,Good
+200901,London planetree,Manhattan,3or4,None,NoDamage,OffsetFromCurb,Well-maintained,14.6,Good
+200902,Ginkgo,Queens,None,Hurdle,NoDamage,OnCurb,Stone,3.9,Fair
+200903,London planetree,Bronx,None,None,NoDamage,OffsetFromCurb,Stone,9.3,Good
+200904,Honeylocust,Queens,4orMore,Hurdle,Damage,OnCurb,Plantable,21.0,Good
+200905,Honeylocust,Queens,3or4,None,NoDamage,OnCurb,Plantable,3,Good
+200906,Callery pear,Bronx,4orMore,MetalGrate,NoDamage,OnCurb,Plantable,17.5,Fair
+200907,Pin oak,Manhattan,None,WireCage,Damage,OffsetFromCurb,Stone,18.9,Fair
+200908,American elm,Manhattan,1or2,None,NoDamage,OnCurb,Well-maintained,15.0,Fair
+200909,Pin oak,Bronx,3or4,None,NoDamage,OnCurb,Well-maintained,20.9,Good
+200910,American elm,Staten Island,1or2,None,NoDamage,OffsetFromCurb,Stone,8.3,Good
+200911,Pin oak,Brooklyn,3or4,None,Damage,OffsetFromCurb,Plantable,16.9,Fair
+200912,American elm,Queens,1or2,None,Damage,OffsetFromCurb,Artificial,15.2,Fair
+200913,Pin oak,Bronx,3or4,Hurdle,NoDamage,OffsetFromCurb,Artificial,15.8,Poor
+200914,Callery pear,Queens,4orMore,None,NoDamage,OnCurb,Artificial,20.2,Good
+200915,Littleleaf linden,Queens,None,None,NoDamage,OnCurb,Stone,12.1,Poor
+200916,Pin oak,Brooklyn,1or2,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,10.6,Good
+200917,Honeylocust,Bronx,None,None,NoDamage,OnCurb,Artificial,9.7,Fair
+200918,Ginkgo,Brooklyn,3or4,MetalGrate,Damage,OnCurb,Stone,7.0,Good
+200919,London planetree,Staten Island,3or4,None,NoDamage,OnCurb,Plantable,15.6,Good
+200920,American elm,Manhattan,1or2,Hurdle,NoDamage,OffsetFromCurb,Artificial,13.2,Poor
+200921,London planetree,Manhattan,None,Hurdle,NoDamage,OnCurb,Artificial,3,Good
+200922,London planetree,Manhattan,3or4,None,NoDamage,OnCurb,Plantable,8.0,Poor
+200923,London planetree,Brooklyn,4orMore,None,NoDamage,OffsetFromCurb,Plantable,11.6,Good
+200924,Pin oak,Manhattan,4orMore,None,NoDamage,OnCurb,Artificial,14.6,Good
+200925,Honeylocust,Queens,4orMore,Hurdle,Damage,OnCurb,Artificial,9.7,Fair
+200926,London planetree,Brooklyn,None,WireCage,NoDamage,OnCurb,Artificial,6.1,Good
+200927,London planetree,Queens,4orMore,Hurdle,Damage,OnCurb,Stone,16.5,Fair
+200928,Ginkgo,Brooklyn,None,WireCage,NoDamage,OnCurb,Plantable,15.3,Good
+200929,Callery pear,Bronx,1or2,None,NoDamage,OnCurb,Well-maintained,14.2,Good
+200930,London planetree,Brooklyn,4orMore,None,Damage,OffsetFromCurb,Artificial,12.4,Fair
+200931,Callery pear,Manhattan,1or2,WireCage,NoDamage,OnCurb,Well-maintained,8.8,Good
+200932,Littleleaf linden,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Plantable,16.3,Good
+200933,London planetree,Manhattan,None,None,NoDamage,OffsetFromCurb,Artificial,8.4,Fair
+200934,Littleleaf linden,Queens,None,Hurdle,NoDamage,OnCurb,Well-maintained,14.8,Good
+200935,Callery pear,Staten Island,3or4,MetalGrate,NoDamage,OffsetFromCurb,Well-maintained,7.4,Good
+200936,Honeylocust,Bronx,None,MetalGrate,NoDamage,OnCurb,Artificial,12.7,Good
+200937,Japanese zelkova,Staten Island,1or2,None,NoDamage,OnCurb,Plantable,6.7,Poor
+200938,Japanese zelkova,Queens,None,Hurdle,NoDamage,OffsetFromCurb,Stone,10.6,Good
+200939,Pin oak,Staten Island,3or4,WireCage,NoDamage,OnCurb,Plantable,5.0,Poor
+200940,Pin oak,Queens,1or2,None,Damage,OffsetFromCurb,Plantable,18.0,Good
+200941,Honeylocust,Bronx,4orMore,None,NoDamage,OffsetFromCurb,Artificial,11.5,Good
+200942,Honeylocust,Brooklyn,3or4,Hurdle,Damage,OnCurb,Well-maintained,7.2,Good
+200943,Callery pear,Queens,1or2,None,NoDamage,OnCurb,Plantable,5.7,Good
+200944,Japanese zelkova,Brooklyn,None,None,NoDamage,OnCurb,Plantable,14.5,Good
+200945,London planetree,Queens,None,None,NoDamage,OnCurb,Artificial,15.1,Poor
+200946,London planetree,Brooklyn,3or4,None,NoDamage,OnCurb,Plantable,15.3,Good
+200947,London planetree,Brooklyn,3or4,WireCage,Damage,OnCurb,Plantable,10.6,Fair
+200948,Honeylocust,Brooklyn,1or2,MetalGrate,NoDamage,OnCurb,Stone,17.3,Poor
+200949,American elm,Brooklyn,None,None,Damage,OnCurb,Plantable,9.0,Poor
+200950,Honeylocust,Queens,None,WireCage,NoDamage,OnCurb,Artificial,4.6,Good
+200951,London planetree,Manhattan,None,MetalGrate,NoDamage,OffsetFromCurb,Artificial,13.7,Fair
+200952,London planetree,Queens,3or4,Hurdle,NoDamage,OnCurb,Well-maintained,7.0,Good
+200953,London planetree,Bronx,4orMore,WireCage,NoDamage,OnCurb,Artificial,9.2,Good
+200954,Callery pear,Brooklyn,1or2,None,NoDamage,OnCurb,Plantable,10.4,Good
+200955,Honeylocust,Brooklyn,None,None,Damage,OnCurb,Artificial,9.7,Poor
+200956,London planetree,Manhattan,3or4,None,Damage,OffsetFromCurb,Plantable,12.2,Good
+200957,Ginkgo,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,15.1,Good
+200958,Pin oak,Brooklyn,None,WireCage,Damage,OffsetFromCurb,Artificial,3.6,Fair
+200959,London planetree,Queens,4orMore,None,NoDamage,OnCurb,Stone,7.3,Poor
+200960,London planetree,Queens,None,None,NoDamage,OnCurb,Well-maintained,19.6,Poor
+200961,Japanese zelkova,Manhattan,3or4,WireCage,Damage,OnCurb,Well-maintained,4.3,Good
+200962,London planetree,Manhattan,1or2,None,Damage,OnCurb,Stone,10.2,Good
+200963,Pin oak,Queens,4orMore,None,NoDamage,OnCurb,Stone,5.3,Good
+200964,Honeylocust,Brooklyn,None,None,NoDamage,OffsetFromCurb,Stone,5.5,Fair
+200965,Honeylocust,Brooklyn,1or2,Hurdle,Damage,OnCurb,Artificial,15.2,Good
+200966,London planetree,Queens,4orMore,None,NoDamage,OffsetFromCurb,Artificial,15.8,Good
+200967,Honeylocust,Manhattan,None,None,NoDamage,OnCurb,Stone,7.5,Good
+200968,Ginkgo,Brooklyn,None,MetalGrate,NoDamage,OnCurb,Well-maintained,18.9,Good
+200969,Littleleaf linden,Queens,3or4,None,NoDamage,OnCurb,Stone,25.0,Poor
+200970,Ginkgo,Manhattan,3or4,None,NoDamage,OnCurb,Stone,13.1,Good
+200971,Pin oak,Brooklyn,3or4,None,Damage,OnCurb,Well-maintained,10.1,Good
+200972,Callery pear,Queens,1or2,None,Damage,OnCurb,Plantable,11.5,Good
+200973,Honeylocust,Staten Island,4orMore,None,NoDamage,OffsetFromCurb,Stone,11.8,Good
+200974,Honeylocust,Bronx,3or4,MetalGrate,NoDamage,OnCurb,Artificial,15.4,Good
+200975,London planetree,Staten Island,4orMore,None,NoDamage,OnCurb,Stone,14.4,Good
+200976,Callery pear,Manhattan,1or2,None,NoDamage,OnCurb,Artificial,10.5,Good
+200977,American elm,Bronx,None,None,NoDamage,OnCurb,Well-maintained,6.4,Good
+200978,Callery pear,Bronx,1or2,None,NoDamage,OnCurb,Well-maintained,14.1,Good
+200979,London planetree,Bronx,4orMore,None,NoDamage,OnCurb,Well-maintained,10.8,Poor
+200980,Japanese zelkova,Manhattan,None,None,NoDamage,OffsetFromCurb,Artificial,10.9,Poor
+200981,Honeylocust,Bronx,4orMore,Hurdle,NoDamage,OffsetFromCurb,Stone,9.3,Good
+200982,London planetree,Staten Island,None,Hurdle,NoDamage,OnCurb,Stone,14.3,Good
+200983,Ginkgo,Staten Island,None,None,NoDamage,OnCurb,Plantable,7.4,Good
+200984,Callery pear,Queens,None,MetalGrate,NoDamage,OffsetFromCurb,Stone,13.1,Good
+200985,Callery pear,Manhattan,3or4,None,NoDamage,OnCurb,Plantable,18.2,Fair
+200986,Pin oak,Queens,None,None,NoDamage,OnCurb,Plantable,23.9,Good
+200987,Honeylocust,Queens,3or4,MetalGrate,NoDamage,OnCurb,Well-maintained,10.0,Poor
+200988,Japanese zelkova,Brooklyn,3or4,None,Damage,OffsetFromCurb,Stone,12.2,Poor
+200989,Honeylocust,Queens,1or2,None,NoDamage,OffsetFromCurb,Artificial,13.8,Good
+200990,London planetree,Bronx,1or2,MetalGrate,Damage,OnCurb,Stone,12.9,Good
+200991,Callery pear,Brooklyn,3or4,Hurdle,NoDamage,OnCurb,Well-maintained,5.3,Good
+200992,Pin oak,Manhattan,None,MetalGrate,NoDamage,OffsetFromCurb,Plantable,18.4,Good
+200993,Pin oak,Brooklyn,None,WireCage,NoDamage,OffsetFromCurb,Artificial,3.2,Good
+200994,Ginkgo,Brooklyn,None,MetalGrate,NoDamage,OffsetFromCurb,Stone,8.8,Fair
+200995,American elm,Bronx,3or4,Hurdle,Damage,OnCurb,Artificial,13.9,Fair
+200996,American elm,Bronx,None,Hurdle,Damage,OnCurb,Stone,10.7,Fair
+200997,London planetree,Brooklyn,4orMore,Hurdle,NoDamage,OffsetFromCurb,Artificial,18.9,Good
+200998,Littleleaf linden,Bronx,None,None,NoDamage,OnCurb,Stone,10.9,Fair
+200999,London planetree,Brooklyn,3or4,None,NoDamage,OnCurb,Plantable,3,Good
